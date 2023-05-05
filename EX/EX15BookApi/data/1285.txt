@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Eesti kiriku-ja religioonilugu","publisher":"Tartu Ülikooli Kirjastus","author":"Tõnno Jonuks, Anti Selart, Tiina Kala jt.","link":"https://www.apollo.ee/eesti-kiriku-ja-religioonilugu.html","yearOfPublishing":2018,"price":28.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Arhitektuur ja soojusmõõde","publisher":"Eesti Kunstiakadeemia Kirjastus","link":"https://www.apollo.ee/arhitektuur-ja-soojusmoode.html","yearOfPublishing":2018,"price":15.95}

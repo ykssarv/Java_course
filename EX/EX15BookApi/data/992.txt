@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"CALMERINO. Estraaditäht. Kalmer Tennosaare lugu","publisher":"Hea Lugu","author":"Aigi Viira","link":"https://www.apollo.ee/calmerino-estraaditaht-kalmer-tennosaare-lugu.html","yearOfPublishing":2020,"price":23.95}

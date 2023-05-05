@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Ravvasita","publisher":"Avita","author":"Jaak Sarapuu, Mihkel Zilmer","link":"https://www.apollo.ee/ravvasita.html","yearOfPublishing":2021,"price":8.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Ratline","publisher":"Orion","author":"Philippe Sands","link":"https://www.apollo.ee/the-ratline.html","yearOfPublishing":2021,"price":12.95}

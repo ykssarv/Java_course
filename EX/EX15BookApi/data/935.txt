@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Mina kummardan","author":"Katrin Hommik","link":"https://www.apollo.ee/mina-kummardan.html","yearOfPublishing":2021,"price":19.95}

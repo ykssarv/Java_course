@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Entering Architectural Practice","publisher":"Taylor \u0026 Francis Ltd","author":"James Tait","link":"https://www.apollo.ee/entering-architectural-practice.html","yearOfPublishing":2020,"price":147.49}

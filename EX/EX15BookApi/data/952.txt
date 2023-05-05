@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Seiklused kalavetel ehk punaseküttide tõestisündinud lood","publisher":"OÜ Mattias Konsultatsioonid","author":"Madis Teesalu","link":"https://www.apollo.ee/seiklused-kalavetel-ehk-punasekuttide-toestisundinud-lood.html","yearOfPublishing":2020,"price":23.95}

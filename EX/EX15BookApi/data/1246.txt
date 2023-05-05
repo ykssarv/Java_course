@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Kristlik tervendamine. Olemise teadus","publisher":"Johannes Esto Kirjastus","author":"Charles Fillmore","link":"https://www.apollo.ee/kristlik-tervendamine-olemise-teadus.html","yearOfPublishing":2019,"price":17.95}

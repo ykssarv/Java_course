@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Katariina Esimene","publisher":"Kirjastus Argo","author":"Nikolai Pavlenko","link":"https://www.apollo.ee/katariina-esimene.html","yearOfPublishing":2021,"price":25.95}

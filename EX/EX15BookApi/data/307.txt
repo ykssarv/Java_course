@@ -1,0 +1,1 @@
+{"language":"Soome","topics":["ajalugu"],"title":"Estonian ihmiset 20 vuotta onnettomuuden jälkeen","publisher":"Pilgrim","author":"Einar Ellermaa, Inge Pitsner","link":"https://www.apollo.ee/estonian-ihmiset.html","yearOfPublishing":2015,"price":5.39}

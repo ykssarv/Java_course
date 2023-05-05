@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Pimedus möödub Mõtisklused","publisher":"Allika","author":"Marek Roots","link":"https://www.apollo.ee/pimedus-moodub.html","yearOfPublishing":2020,"price":11.95}

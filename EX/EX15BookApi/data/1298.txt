@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Okultism, nõiakunst ja maagia Illustreeritud ajalugu","publisher":"Varrak","author":"Christopher Dell","link":"https://www.apollo.ee/okultism-noiakunst-ja-maagia.html","yearOfPublishing":2017,"price":30.99}

@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Person-Centered Health Care Design","publisher":"Taylor \u0026 Francis Ltd","author":"Dak Kopec","link":"https://www.apollo.ee/person-centered-health-care-design.html","yearOfPublishing":2021,"price":64.49}

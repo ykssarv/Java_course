@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arvuti-ja-internet"],"title":"Is This Thing On? A Computer Handbook for Late Bloomers, Technophobes, and the Kicking and Screaming","publisher":"Workman","author":"Abby Stokes","link":"https://www.apollo.ee/is-this-thing-on.html","yearOfPublishing":2012}

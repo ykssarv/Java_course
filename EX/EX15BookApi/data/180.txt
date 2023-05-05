@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Epidemics and Society: From the Black Death to the Present","publisher":"Yale University Press","author":"Frank M. Snowden","link":"https://www.apollo.ee/epidemics-and-society-from-the-black-death-to-the-present.html","yearOfPublishing":2020,"price":23.95}

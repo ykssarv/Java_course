@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Kokkupõrge Eesti moderniseerumine avaliku privaattranspordi näitel, 1900-1940","publisher":"Revaleta","author":"Riho Paramonov","link":"https://www.apollo.ee/kokkuporge.html","yearOfPublishing":2020,"price":32.95}

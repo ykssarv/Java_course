@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Inventory","publisher":"Vintage","author":"Darran Anderson","link":"https://www.apollo.ee/inventory.html","yearOfPublishing":2021,"price":10.95}

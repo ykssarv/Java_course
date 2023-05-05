@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Eesti Tööstusprojektist SWECO Projektini 1944–2007. Projektid, inimesed, sündmused","publisher":"Kirjastus Aade","author":"Koostanud Ants Jakobson","link":"https://www.apollo.ee/eesti-toostusprojektist-sweco-projektini-1944-2007-projektid-inimesed-sundmused.html","yearOfPublishing":2016,"price":9.85}

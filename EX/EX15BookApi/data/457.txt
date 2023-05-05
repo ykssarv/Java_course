@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Inimene ja teispoolsus Teadus ja uskumused tänapäeval","publisher":"Gallus","author":"Arne Hiob","link":"https://www.apollo.ee/teispoolsus-ja-inimene.html","yearOfPublishing":2021,"price":21.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Islam: A Short History","publisher":"Orion","author":"Karen Armstrong","link":"https://www.apollo.ee/islam-a-short-history.html","yearOfPublishing":2001,"price":4.99}

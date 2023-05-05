@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Suvila Puhkamine ja arhitektuur Eestis 20. sajandil","publisher":"Eesti Arhitektuurimuuseum","author":"Epp Lankots, Triin Ojari","link":"https://www.apollo.ee/suvila.html","yearOfPublishing":2020,"price":34.95}

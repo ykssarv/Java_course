@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Õigeusu vaimsus","publisher":"Püha Johannese Kooli SA","author":"Metropoliit Hireotheos Vlachose","link":"https://www.apollo.ee/oigeusu-vaimsus.html","yearOfPublishing":2018,"price":23.65}

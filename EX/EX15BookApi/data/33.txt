@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Venemaa lühiajalugu Paganatest Putinini","publisher":"Eesti Raamat","author":"Mark Galeotti","link":"https://www.apollo.ee/venemaa-luhiajalugu.html","yearOfPublishing":2021,"price":20.95}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Excel ja VBA","publisher":"TTÜ","author":"Teodor Luczkowski","link":"https://www.apollo.ee/excel-ja-vba.html","yearOfPublishing":2009}

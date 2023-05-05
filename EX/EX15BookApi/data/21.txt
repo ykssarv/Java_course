@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Tormide ja tungide aeg Tallinnas","publisher":"Absoluutne OÜ","author":"Toivo Tootsen","link":"https://www.apollo.ee/tormide-ja-tungide-aeg-tallinnas.html","yearOfPublishing":2021,"price":17.95}

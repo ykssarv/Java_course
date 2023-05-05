@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Ardennid 1944 Hitleri viimane katse","publisher":"AS Äripäev","author":"Antony Beevor","link":"https://www.apollo.ee/ardennid-1944.html","yearOfPublishing":2021,"price":36.95}

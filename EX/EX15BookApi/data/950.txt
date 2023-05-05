@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Panso 100. Nii palju kui andsid koerale I KÖIDE Mina, mu õpetaja ja teised tegelased","publisher":"Varrak","author":"Merle Karusoo","link":"https://www.apollo.ee/panso-100-nii-palju-kui-andsid-koerale.html","yearOfPublishing":2020,"price":25.95}

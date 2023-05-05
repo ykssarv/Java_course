@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Pöördloendus 1945 Ebatavaline lugu tuumapommist ja 116 päevast, mis muutsid maailma","publisher":"Ühinenud Ajakirjad","author":"Chris Wallace, Mitch Weiss","link":"https://www.apollo.ee/poordloendus-1945.html","yearOfPublishing":2021,"price":26.95}

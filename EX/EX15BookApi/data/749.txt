@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Koduraamat","publisher":"Monika Süvari","author":"Monika Süvari","link":"https://www.apollo.ee/koduraamat.html","yearOfPublishing":2017,"price":29.0}

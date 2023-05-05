@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Humankind","publisher":"Bloomsbury","author":"Rutger Bregman","link":"https://www.apollo.ee/humankind.html","yearOfPublishing":2021,"price":12.95}

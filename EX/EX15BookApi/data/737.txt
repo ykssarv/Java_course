@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Vorm ja konstruktsioon sisearhitektuuris","publisher":"Eesti Kunstiakadeemia Kirjastus","author":"Graeme Brooker, Sally Stone","link":"https://www.apollo.ee/vorm-ja-konstruktsioon-sisearhitektuuris.html","yearOfPublishing":2018,"price":21.49}

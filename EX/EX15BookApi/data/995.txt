@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Hoolivuse keel","publisher":"Varrak","author":"Christie Watson","link":"https://www.apollo.ee/hoolivuse-keel.html","yearOfPublishing":2020,"price":27.95}

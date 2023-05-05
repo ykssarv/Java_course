@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Vähem on piisav: arhitektuurist ja askeesist","publisher":"Eesti Kunstiakadeemia","author":"Pier Vittorio Aureli","link":"https://www.apollo.ee/vahem-on-piisav-arhitektuurist-ja-askeesist.html","yearOfPublishing":2017,"price":9.95}

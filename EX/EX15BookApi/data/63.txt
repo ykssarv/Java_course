@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Maailmateater Kaartide põnev sünnilugu","publisher":"Eesti Raamat","author":"Thomas Reinertsen Berg","link":"https://www.apollo.ee/maailmateater.html","yearOfPublishing":2020,"price":30.95}

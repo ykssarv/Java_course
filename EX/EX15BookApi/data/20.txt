@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Seksi kummaline ajalugu","publisher":"Tänapäev","author":"Kate Lister","link":"https://www.apollo.ee/seksi-kummaline-ajalugu.html","yearOfPublishing":2021,"price":26.95}

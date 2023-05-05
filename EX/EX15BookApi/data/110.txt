@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Rivers of Power","publisher":"Penguin","author":"Laurence C. Smith","link":"https://www.apollo.ee/rivers-of-power.html","yearOfPublishing":2021,"price":13.95}

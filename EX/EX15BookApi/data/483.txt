@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Kalad Astroloogiline teejuht","publisher":"Sinisukk","author":"Stella Andromeda","link":"https://www.apollo.ee/kalad-268607.html","yearOfPublishing":2020,"price":18.95}

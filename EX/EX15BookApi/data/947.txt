@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Kõige selle keskel","publisher":"Rahva Raamat","author":"Tiit Kändler","link":"https://www.apollo.ee/koige-selle-keskel.html","yearOfPublishing":2020,"price":17.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"RUUMID_SPACES Rein Vainküla arhitektuurifotograafia","publisher":"Ansambel AB, Tallinna Tehnikakõrgkool","author":"Toivo Tammik, Martin Pedanik","link":"https://www.apollo.ee/ruumid-spaces.html","yearOfPublishing":2019,"price":35.95}

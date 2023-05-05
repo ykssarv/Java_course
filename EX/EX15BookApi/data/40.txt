@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Hageri kihelkond. Aja lood","publisher":"Kohila vallavalitsus","link":"https://www.apollo.ee/hageri-kihelkond-aja-lood.html","yearOfPublishing":2020,"price":29.95}

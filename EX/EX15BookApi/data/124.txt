@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Coffeeland","publisher":"Penguin","author":"Augustine Sedgewick","link":"https://www.apollo.ee/coffeeland.html","yearOfPublishing":2021,"price":12.95}

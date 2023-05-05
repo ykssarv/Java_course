@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Väike taroraamat","publisher":"Suur Puu OÜ","author":"Barbara Moore","link":"https://www.apollo.ee/vaike-taroraamat.html","yearOfPublishing":2020,"price":25.95}

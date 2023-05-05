@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Haapsalu. L‰‰ne Kalurist grafititeni","publisher":"Ajan peili","author":"Mikael Korhonen","link":"https://www.apollo.ee/haapsalu-laane-kalurist-grafititeni.html","yearOfPublishing":2020,"price":19.95}

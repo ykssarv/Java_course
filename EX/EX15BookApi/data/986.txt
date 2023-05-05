@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Argipäeva imed. Piiskop Philippe Jourdani lugu","publisher":"Gallus","author":"Indrek Koff","link":"https://www.apollo.ee/argipaeva-imed-piiskop-philippe-jourdani-lugu.html","yearOfPublishing":2020,"price":23.0}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"AVR Mikrokontrollerid ja praktiline robootika","publisher":"ITT Group","author":"Raivo Sell, Mikk Leini, Rain Ellermaa","link":"https://www.apollo.ee/avr-mikrokontrollerid-ja-praktiline-robootika.html","yearOfPublishing":2015,"price":9.99}

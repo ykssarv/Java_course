@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Eesti linnaehituse ajalugu Keskajast tsaariaja lõpuni","publisher":"Eesti Kunstiakadeemia","author":"Toomas Tamla, Kaur Alttoa, Lilian Hansar, Villu Kadakas, Tiina Kala, Ragnar Nurk, Oliver Orro, Anton Pärn","link":"https://www.apollo.ee/eesti-linnaehituse-ajalugu.html","yearOfPublishing":2019,"price":47.95}

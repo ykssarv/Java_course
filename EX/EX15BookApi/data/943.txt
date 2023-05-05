@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Looduses ja loodusega","publisher":"Paradiis","author":"Jaan Kaplinski","link":"https://www.apollo.ee/looduses-ja-loodusega.html","yearOfPublishing":2020,"price":11.99}

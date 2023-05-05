@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Tappidest lahti maailm Lugu 1570.–1700. aasta väikesest jääajast ja tänapäeva maailma tekkimisest ning mõtisklusi nüüdisaja kliimast","publisher":"Kirjastus Argo","author":"Philipp Blom","link":"https://www.apollo.ee/tappidest-lahti-maailm.html","yearOfPublishing":2021,"price":26.95}

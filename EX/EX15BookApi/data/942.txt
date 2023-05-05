@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Michael Jordani elu","publisher":"Tänapäev","author":"Roland Lazenby","link":"https://www.apollo.ee/michael-jordani-elu.html","yearOfPublishing":2020,"price":41.95}

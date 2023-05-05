@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Tagasivaated","publisher":"Tänapäev","author":"Toomas Leito","link":"https://www.apollo.ee/tagasivaated.html","yearOfPublishing":2020,"price":26.95}

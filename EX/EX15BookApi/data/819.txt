@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"The Making of Our Urban Landscape","publisher":"Oxford University Press","author":"Geoffrey Tyack","link":"https://www.apollo.ee/the-making-of-our-urban-landscape.html","yearOfPublishing":2021,"price":45.99}

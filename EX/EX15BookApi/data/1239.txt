@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Matteuse evangeelium","publisher":"Logos","author":"R. T. France","link":"https://www.apollo.ee/matteuse-evangeelium-215546.html","yearOfPublishing":2019,"price":23.95}

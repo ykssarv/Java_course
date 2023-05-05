@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Astroloogia õpetus","publisher":"Rahva Raamat","author":"Triin Tobber","link":"https://www.apollo.ee/astroloogia-opetus.html","yearOfPublishing":2019,"price":21.95}

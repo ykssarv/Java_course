@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Working","publisher":"Vintage","author":"Robert A Caro","link":"https://www.apollo.ee/working.html","yearOfPublishing":2021,"price":10.95}

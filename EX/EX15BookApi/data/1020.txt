@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"The Truths We Hold","publisher":"Vintage","author":"Kamala Harris","link":"https://www.apollo.ee/the-truths-we-hold.html","yearOfPublishing":2021,"price":10.95}

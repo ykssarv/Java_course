@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"The Macabre Tarot","publisher":"Rockpool Publishing","author":"Sam West","link":"https://www.apollo.ee/the-macabre-tarot.html","yearOfPublishing":2020,"price":26.95}

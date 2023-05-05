@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Uskmatu kirjad","publisher":"MTÜ Allika","author":"Gregory A. Boyd, Edward K. Boyd","link":"https://www.apollo.ee/uskmatu-kirjad.html","yearOfPublishing":2018,"price":14.35}

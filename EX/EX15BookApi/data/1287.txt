@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Inglid minu sõrmeotstel","publisher":"Varrak","author":"Lorna Byrne","link":"https://www.apollo.ee/inglid-minu-sormeotstel.html","yearOfPublishing":2018,"price":21.35}

@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"King John\u0027s Hunting Lodge","publisher":"Pavilion Books","author":"Nick Hanks","link":"https://www.apollo.ee/king-john-s-hunting-lodge.html","yearOfPublishing":2018,"price":7.99}

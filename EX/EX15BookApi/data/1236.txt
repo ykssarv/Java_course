@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Piibel 2019","publisher":"Eesti Piibliselts","link":"https://www.apollo.ee/piibel-2019.html","yearOfPublishing":2019,"price":43.95}

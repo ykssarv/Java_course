@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Klopp. Täie auruga","publisher":"Tänapäev","author":"Raphael Honigstein","link":"https://www.apollo.ee/klopp-taie-auruga.html","yearOfPublishing":2020,"price":26.95}

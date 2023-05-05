@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Architizer: The World\u0027s Best Architecture 2020","publisher":"Phaidon Press Ltd","author":"Architizer","link":"https://www.apollo.ee/architizer-the-world-s-best-architecture-2020.html","yearOfPublishing":2021,"price":86.49}

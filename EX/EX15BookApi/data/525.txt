@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Astroloogia käsiraamat Praktilised nõuanded, kuidas lugeda horoskoopi","publisher":"Sinisukk","author":"Anna Southgate","link":"https://www.apollo.ee/astroloogia-kasiraamat.html","yearOfPublishing":2019,"price":24.95}

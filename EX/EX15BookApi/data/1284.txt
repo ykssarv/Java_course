@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Tarvis on vaid üht","publisher":"Gallus","author":"Isa Pedro Cervio","link":"https://www.apollo.ee/tarvis-on-vaid-uht.html","yearOfPublishing":2018,"price":8.45}

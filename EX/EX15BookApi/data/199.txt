@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Orwell in Spain","publisher":"Penguin Books","author":"George Orwell","link":"https://www.apollo.ee/orwell-in-spain.html","yearOfPublishing":2020,"price":16.95}

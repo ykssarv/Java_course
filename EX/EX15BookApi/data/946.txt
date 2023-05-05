@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Elvis Presley. Üksildane elu","publisher":"Pegasus","author":"Ray Connolly","link":"https://www.apollo.ee/elvis-presley-uksildane-elu.html","yearOfPublishing":2020,"price":27.95}

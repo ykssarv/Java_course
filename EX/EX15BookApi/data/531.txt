@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Sinu isiklik horoskoop 2020","publisher":"Ersen","author":"Joseph Polansky","link":"https://www.apollo.ee/sinu-isiklik-horoskoop-2020.html","yearOfPublishing":2019,"price":16.99}

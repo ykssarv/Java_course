@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Spaces of the Interregnum Transformations in Estonian Architecture and Art 1986–1994","publisher":"Eesti Kunstiakadeemia","author":"Ingrid Ruudi","link":"https://www.apollo.ee/spaces-of-the-interregnum.html","yearOfPublishing":2020,"price":18.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Ehituskunst 2016 Võimu kriteerium on selle mõju arhitektuurile","publisher":"Eesti Kunstiakadeemia arhitektuuriteaduskond","link":"https://www.apollo.ee/ehituskunst-2016.html","yearOfPublishing":2016,"price":10.0}

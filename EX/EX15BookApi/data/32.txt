@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eesti ajalugu","publisher":"Avita","author":"Aivar Kriiska, Ain Mäesalu, Anti Selart, Inna Põltsam-Jürjo, Pärtel Piirimäe, Marten Seppel, Andres Andresen, Ago Pajur, Tõnu Tannberg","link":"https://www.apollo.ee/eesti-ajalugu-02022317.html","yearOfPublishing":2017,"price":49.95}

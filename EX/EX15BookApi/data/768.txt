@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Tervislik kodu","publisher":"Tarkuseraamat OÜ","author":"Klaire Kolmann, Anne-Mai Heimola, Riina Eigi-Sobolewska","link":"https://www.apollo.ee/tervislik-kodu.html","yearOfPublishing":2016,"price":19.99}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Anija mõisa ajalugu. Aadel ja talupoeg","publisher":"Anija Mõisa Haldus SA","author":"Juhan Maiste","link":"https://www.apollo.ee/anija-moisa-ajalugu-aadel-ja-talupoeg.html","yearOfPublishing":2020,"price":58.95}

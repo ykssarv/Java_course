@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Häkkimine võhikutele","publisher":"Lausuja","author":"Kevin Beaver","link":"https://www.apollo.ee/hakkimine-vohikutele.html","yearOfPublishing":2008,"price":7.99}

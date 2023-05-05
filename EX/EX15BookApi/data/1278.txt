@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Akaši kroonikad","publisher":"Ersen","author":"Sandra Anne Taylor","link":"https://www.apollo.ee/akasi-kroonikad.html","yearOfPublishing":2018,"price":19.99}

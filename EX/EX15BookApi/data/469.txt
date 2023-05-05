@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Haldjad","publisher":"Inglitiivul OÜ","author":"Karen Kay","link":"https://www.apollo.ee/haldjad.html","yearOfPublishing":2020,"price":21.99}

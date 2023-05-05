@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Mr Straw\u0027s House","publisher":"Pavilion Books","author":"Andrew Barber","link":"https://www.apollo.ee/mr-straw-s-house.html","yearOfPublishing":2018,"price":7.99}

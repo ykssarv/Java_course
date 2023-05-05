@@ -1,0 +1,1 @@
+{"language":"Soome","topics":["ajalugu"],"title":"Viro Toisessa Maailmansodassa","publisher":"Grenader Grupp OÜ","author":"Mart Laar","link":"https://www.apollo.ee/viro-toisessa-maailmansodassa.html","yearOfPublishing":2017,"price":8.1}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Upheaval : How Nations Cope with Crisis and Change","publisher":"Penguin Books","author":"Jared Diamond","link":"https://www.apollo.ee/upheaval-how-nations-cope-with-crisis-and-change.html","yearOfPublishing":2020,"price":5.99}

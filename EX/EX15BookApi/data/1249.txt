@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Mis on inimene? Aadam, tulnukas või ahv?","publisher":"MTÜ Allika","author":"Edgar Andrews","link":"https://www.apollo.ee/mis-on-inimene.html","yearOfPublishing":2019,"price":26.95}

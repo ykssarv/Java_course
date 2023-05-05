@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Maadligi maateaduses ja mujalgi I Otsingute ja katsumuste kümnend 1957-1967","publisher":"Tartu Ülikooli kirjastus","author":"Ott Kurs","link":"https://www.apollo.ee/maadligi-maateaduses-ja-mujalgi-i.html","yearOfPublishing":2021,"price":10.95}

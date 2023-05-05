@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Voices of History : Speeches that Changed the World","publisher":"Orion","author":"Simon Sebag Montefiore","link":"https://www.apollo.ee/voices-of-history-speeches-that-changed-the-world.html","yearOfPublishing":2020,"price":8.99}

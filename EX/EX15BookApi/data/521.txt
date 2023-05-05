@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Müstiline šamaan","publisher":"Inglitiivul","author":"Alberto Villoldo, Colette Baron-Reid ja Marcela Lobos","link":"https://www.apollo.ee/mustiline-samaan.html","yearOfPublishing":2019,"price":22.95}

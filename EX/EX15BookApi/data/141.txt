@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"New Yorkers TPB","publisher":"John Murray Press","author":"Craig Taylor","link":"https://www.apollo.ee/new-yorkers-tpb.html","yearOfPublishing":2021,"price":21.95}

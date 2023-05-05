@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Kapitooliumi emahunt Rooma enne keisreid","publisher":"Postimees","author":"Mihhail Gasparov","link":"https://www.apollo.ee/kapitooliumi-emahunt.html","yearOfPublishing":2021,"price":25.95}

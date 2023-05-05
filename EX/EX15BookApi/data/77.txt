@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Baltimaade ajalugu","publisher":"Varrak","author":"Norbert Angermann, Karsten Brüggemann","link":"https://www.apollo.ee/baltimaade-ajalugu-287066.html","yearOfPublishing":2020,"price":25.95}

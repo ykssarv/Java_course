@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Kalad .Nastja tähtkujuraamat","publisher":"Fookus Meedia","link":"https://www.apollo.ee/kalad-nastja-tahtkujuraamat.html","yearOfPublishing":2019,"price":6.99}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Ita Ever. Elulugu","publisher":"Fookus Meedia","author":"Anne Veesaar, Anneli Aasmäe-Pender","link":"https://www.apollo.ee/ita-ever-elulugu.html","yearOfPublishing":2021,"price":9.95}

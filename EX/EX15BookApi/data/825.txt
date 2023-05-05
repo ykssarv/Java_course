@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"The Monocle Book of Homes","publisher":"Thames \u0026 Hudson Ltd","link":"https://www.apollo.ee/the-monocle-book-of-homes.html","yearOfPublishing":2021,"price":65.49}

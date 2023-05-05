@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Tarokaartide ladumise käsiraamat","publisher":"Varrak","author":"Liz Dean","link":"https://www.apollo.ee/tarokaartide-ladumise-kasiraamat.html","yearOfPublishing":2019,"price":24.95}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Andmestruktuuride lühikursus","publisher":"TTÜ kirjastus","author":"Rein Jürgenson","link":"https://www.apollo.ee/andmestruktuuride-luhikursus.html","yearOfPublishing":1996}

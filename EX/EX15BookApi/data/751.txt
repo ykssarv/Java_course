@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Arhitekt kui dirigent. Artikleid, projekte, mälestusi","publisher":"Tartu Linnamuuseum","author":"Raul-Levroit Kivi","link":"https://www.apollo.ee/arhitekt-kui-dirigent-artikleid-projekte-malestusi.html","yearOfPublishing":2017,"price":14.55}

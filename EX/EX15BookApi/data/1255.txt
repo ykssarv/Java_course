@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Ristitud eestlane. Kristluse ajalugu Eestis keskajast tänapäevani Kristluse ajalugu Eestis keskajast tänapäevani","publisher":"Argo kirjastus","author":"Riho Saard","link":"https://www.apollo.ee/ristitud-eestlane-kristluse-ajalugu-eestis-keskajast-tanapaevani.html","yearOfPublishing":2018,"price":32.5}

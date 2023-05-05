@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Britain´s War","publisher":"Penguin","author":"Daniel Todman","link":"https://www.apollo.ee/britain-s-war.html","yearOfPublishing":2021,"price":21.95}

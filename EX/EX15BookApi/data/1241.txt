@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Sõnast sõnumiks Homileetika käsiraamat","publisher":"MTÜ Allika","author":"Meeli Tankler, Üllas Tankler","link":"https://www.apollo.ee/sonast-sonumiks.html","yearOfPublishing":2019,"price":26.95}

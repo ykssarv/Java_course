@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Alumiiniumist kurgid 741 päeva kirsades","publisher":"Postimees Kirjastus","author":"Margus Haav","link":"https://www.apollo.ee/alumiiniumist-kurgid.html","yearOfPublishing":2020,"price":20.95}

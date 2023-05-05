@@ -1,0 +1,1 @@
+{"language":"Soome","topics":["ajalugu"],"title":"Putin, Vladimir Putin","publisher":"Arktinen Banaani","author":"Jukka Parkkari","link":"https://www.apollo.ee/putin-vladimir-putin.html","yearOfPublishing":2014,"price":17.9}

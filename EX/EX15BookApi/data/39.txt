@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Metsik ida. soome hõimusõjad ja ida-euroopa murrang 1918–1921","publisher":"Rahva Raamat AS","author":"Aapo Roselius, Oula Silvennoinen","link":"https://www.apollo.ee/metsik-ida-soome-hoimusojad-ja-ida-euroopa-murrang-1918-1921.html","yearOfPublishing":2021,"price":28.95}

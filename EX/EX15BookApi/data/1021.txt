@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Last Stop Auschwitz","publisher":"Black Swan","author":"Eddy de Wind","link":"https://www.apollo.ee/last-stop-auschwitz.html","yearOfPublishing":2021,"price":9.95}

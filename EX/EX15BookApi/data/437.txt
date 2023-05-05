@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Visual Research: An Introduction to Research Methods in Graphic Design","publisher":"Bloomsbury Publishing PLC","author":"Russell Bestley,Ian Noble","link":"https://www.apollo.ee/visual-research-an-introduction-to-research-methods-in-graphic-design.html","yearOfPublishing":2018,"price":45.99}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"English Pastoral","publisher":"Penguin Books","author":"James Rebanks","link":"https://www.apollo.ee/english-pastoral.html","yearOfPublishing":2020,"price":25.95}

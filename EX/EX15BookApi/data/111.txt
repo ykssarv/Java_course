@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Ladies Can’t Climb Ladders","publisher":"Black Swan","author":"Jane Robinson","link":"https://www.apollo.ee/ladies-can-t-climb-ladders.html","yearOfPublishing":2021,"price":10.95}

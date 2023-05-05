@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Maaväegrupp Nord iseloomustus Operatsioon Riia ja Aster-Tag","publisher":"Fred Vendel","author":"Fred Vendel","link":"https://www.apollo.ee/maavaegrupp-nord-iseloomustus.html","yearOfPublishing":2020,"price":27.95}

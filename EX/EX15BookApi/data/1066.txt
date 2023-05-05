@@ -1,0 +1,1 @@
+{"topics":["biograafia-ja-memuaarid"],"title":"Animal Farm","publisher":"Scholastic","author":"George Orwell","link":"https://www.apollo.ee/animal-farm-283260.html","yearOfPublishing":2021,"price":7.49}

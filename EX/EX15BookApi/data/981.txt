@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Wild Thing. Jimi Hendrixi elulugu","publisher":"Koolibri","author":"Philip Norman","link":"https://www.apollo.ee/wild-thing-jimi-hendrixi-elulugu.html","yearOfPublishing":2020,"price":32.95}

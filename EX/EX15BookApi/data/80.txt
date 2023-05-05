@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Ühes laulmise vägi Jõhvi laulupeod 1865. aasta Alutaguse praostkonna „laulupühast” kuni Jõhvi pargi laulupidudeni","publisher":"Jõhvi Muuseumi Selts","author":"Vallo Reimaa","link":"https://www.apollo.ee/uhes-laulmise-vagi.html","yearOfPublishing":2020,"price":25.95}

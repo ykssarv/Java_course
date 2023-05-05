@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"Õpime üheskoos arvutiteadust","publisher":"Koolibri","author":"Ühislooming","link":"https://www.apollo.ee/opime-uheskoos-arvutiteadust.html","yearOfPublishing":2018,"price":20.25}

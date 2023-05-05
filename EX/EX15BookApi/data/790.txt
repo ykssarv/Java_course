@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Conrani värvimaailm","publisher":"Varrak","author":"Terence Conran","link":"https://www.apollo.ee/conrani-varvimaailm.html","yearOfPublishing":2015}

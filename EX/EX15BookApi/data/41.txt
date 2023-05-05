@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Tallinna merekindlus Teises maailmasõjas","publisher":"Ammukaar","author":"Ranno Sõnum, Mati Õun, Hanno Ojalo","link":"https://www.apollo.ee/tallinna-merekindlus-teises-maailmasojas.html","yearOfPublishing":2021,"price":19.95}

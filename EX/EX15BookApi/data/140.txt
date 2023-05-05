@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Before and After","publisher":"Quercus","author":"Lisa Wingate \u0026 Judy Christie","link":"https://www.apollo.ee/before-and-after.html","yearOfPublishing":2021,"price":11.95}

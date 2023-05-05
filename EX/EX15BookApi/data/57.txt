@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eestimaa suvepäikeses 1928. aasta Eesti läbi taanlase silmade","publisher":"Panbaltica OÜ","author":"Marius Dahlsgaard","link":"https://www.apollo.ee/eestimaa-suvepaikeses.html","yearOfPublishing":2020,"price":20.95}

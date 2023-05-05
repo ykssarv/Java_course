@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The World Beneath Their Feet","publisher":"John Murray Press","author":"Scott Ellsworth","link":"https://www.apollo.ee/the-world-beneath-their-feet.html","yearOfPublishing":2021,"price":16.95}

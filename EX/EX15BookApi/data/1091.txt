@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Permanent Record PB","publisher":"Pan MacMillan","author":"Edward Snowden","link":"https://www.apollo.ee/permanent-record-pb.html","yearOfPublishing":2020,"price":12.95}

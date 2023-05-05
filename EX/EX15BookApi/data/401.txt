@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"AutoCAD ÕPPEVAHEND","author":"Võido Rahula","link":"https://www.apollo.ee/autocad.html","yearOfPublishing":2009}

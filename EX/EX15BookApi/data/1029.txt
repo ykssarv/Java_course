@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"The Yellow House","publisher":"Little Brown","author":"Sarah M. Broom","link":"https://www.apollo.ee/the-yellow-house.html","yearOfPublishing":2021,"price":12.95}

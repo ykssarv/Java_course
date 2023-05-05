@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Rowan Atkinson","publisher":"Paradiis","author":"Andreas Pittler","link":"https://www.apollo.ee/rowan-atkinson.html","yearOfPublishing":2020,"price":8.99}

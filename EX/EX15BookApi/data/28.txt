@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eesti rahva kannatuste aasta. Koguteos I","publisher":"Ühinenud Ajakirjad","link":"https://www.apollo.ee/eesti-rahva-kannatuste-aasta-koguteos-i.html","yearOfPublishing":2021,"price":29.95}

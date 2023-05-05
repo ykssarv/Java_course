@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Sajanditetagused tehnikaimed","publisher":"Helios","author":"Leonard de Vries","link":"https://www.apollo.ee/sajanditetagused-tehnikaimed.html","yearOfPublishing":2021,"price":20.95}

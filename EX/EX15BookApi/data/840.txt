@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"The Art of Japanese Architecture: History / Culture / Design","publisher":"Tuttle Publishing","author":"David Young,Michiko Young","link":"https://www.apollo.ee/the-art-of-japanese-architecture-history-culture-design.html","yearOfPublishing":2019,"price":26.49}

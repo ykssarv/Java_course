@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Kirjad Felice’ile","publisher":"Verb","author":"Franz Kafka","link":"https://www.apollo.ee/kirjad-felice-ile.html","yearOfPublishing":2020,"price":36.95}

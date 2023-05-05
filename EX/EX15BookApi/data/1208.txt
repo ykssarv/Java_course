@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Scripta Amicis Festshrift Heigo Ritsbek 70","publisher":"MTÜ Allika","author":"Heigo Ritsbek","link":"https://www.apollo.ee/scripta-amicis.html","yearOfPublishing":2021,"price":24.95}

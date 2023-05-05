@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Ürgilm, haldjad, jumalannad ja esivanemad Muistne tarkus eesti mustrites, muinaslugudes ja regilauludes","publisher":"Kirjastus Tähetulv","author":"Riina Grethiel Leppoja","link":"https://www.apollo.ee/urgilm-haldjad-jumalannad-ja-esivanemad.html","yearOfPublishing":2018,"price":25.45}

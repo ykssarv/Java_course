@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Chernobyl: A Stalkers’ Guide","publisher":"Thames \u0026 Hudson","author":"Darmon Richter","link":"https://www.apollo.ee/chernobyl-a-stalkers-guide.html","yearOfPublishing":2020,"price":31.95}

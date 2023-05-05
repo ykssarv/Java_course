@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Teaduse ajalugu. 1543–2001","publisher":"Päikese Kirjastus","author":"John Gribbin","link":"https://www.apollo.ee/teaduse-ajalugu-1543-2001.html","yearOfPublishing":2020,"price":29.95}

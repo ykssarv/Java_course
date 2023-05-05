@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Piibel","publisher":"Eesti Piibliselts","link":"https://www.apollo.ee/piibel.html","yearOfPublishing":2010,"price":49.95}

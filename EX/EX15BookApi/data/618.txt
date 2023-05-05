@@ -1,0 +1,1 @@
+{"topics":["astroloogia-ja-maagia"],"title":"Astro Poets: Your Guides to the Zodiac","publisher":"Flatiron Books","author":"Alex Dimitrov,Dorothea Lasky","link":"https://www.apollo.ee/astro-poets-your-guides-to-the-zodiac-219982.html","yearOfPublishing":2019,"price":22.49}

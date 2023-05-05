@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Metropol Inimkonna tähtsaima leiutise ajalugu","publisher":"Tänapäev","author":"Ben Wilson","link":"https://www.apollo.ee/metropol.html","yearOfPublishing":2021,"price":35.95}

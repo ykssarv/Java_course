@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Arvuti ehitamine võhikutele Abiks nii algajaile kui ka vilunuile","publisher":"Lausuja Kirjastus","author":"Mark L. Chambers","link":"https://www.apollo.ee/arvuti-ehitamine-vohikutele.html","yearOfPublishing":2006,"price":9.99}

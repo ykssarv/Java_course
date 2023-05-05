@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"A Promised Land","publisher":"Random House USA","author":"Barack Obama","link":"https://www.apollo.ee/a-promised-land.html","yearOfPublishing":2020,"price":37.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Siiditeed Maailma uus ajalugu","publisher":"Tänapäev","author":"Peter Frankopan","link":"https://www.apollo.ee/siiditeed.html","yearOfPublishing":2020}

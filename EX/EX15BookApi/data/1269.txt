@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Mütoloogia. Aegumatud lood jumalatest ja kangelastest","publisher":"Eesti Raamat","author":"Edith Hamilton","link":"https://www.apollo.ee/mutoloogia-aegumatud-lood-jumalatest-ja-kangelastest.html","yearOfPublishing":2018,"price":29.79}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Meghani ja Harry tegelik lugu","publisher":"Sinisukk","author":"Lady Colin Campbell","link":"https://www.apollo.ee/meghani-ja-harry-tegelik-lugu.html","yearOfPublishing":2021,"price":44.95}

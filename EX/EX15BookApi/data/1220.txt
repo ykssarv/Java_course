@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Slaavi mütoloogia","publisher":"Tänapäev","author":"Aleksandr Illikajev","link":"https://www.apollo.ee/slaavi-mutoloogia.html","yearOfPublishing":2020,"price":28.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Stephen Hawking","publisher":"Pantheon","author":"Leonard Mlodinow","link":"https://www.apollo.ee/stephen-hawking-283667.html","yearOfPublishing":2020,"price":10.99}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Vilen Künnapu. Kunst, arhitektuur, revolutsioon","publisher":"Eesti Arhitektuurimuuseum","author":"Indrek Grigor","link":"https://www.apollo.ee/vilen-kunnapu-kunst-arhitektuur-revolutsioon.html","yearOfPublishing":2016,"price":24.35}

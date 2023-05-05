@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Elumuutuste horoskoop 2021","publisher":"Tulip OÜ","author":"Villu Põldma","link":"https://www.apollo.ee/elumuutuste-horoskoop-2021.html","yearOfPublishing":2020,"price":4.99}

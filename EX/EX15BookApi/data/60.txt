@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Must viiking","publisher":"Varrak","author":"Bergsveinn Birgisson","link":"https://www.apollo.ee/must-viiking.html","yearOfPublishing":2020,"price":30.95}

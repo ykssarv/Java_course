@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Pahupidi Mälestused","publisher":"Pegasus","author":"Demi Moore","link":"https://www.apollo.ee/pahupidi.html","yearOfPublishing":2020,"price":21.95}

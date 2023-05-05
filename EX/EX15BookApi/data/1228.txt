@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Maagia, teadus ja religioon ning teisi esseid","publisher":"Tartu Ülikooli Kirjastus","author":"Bronislaw Malinowski","link":"https://www.apollo.ee/maagia-teadus-ja-religioon-ning-teisi-esseid.html","yearOfPublishing":2020,"price":26.95}

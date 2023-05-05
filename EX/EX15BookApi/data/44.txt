@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Tippsport ja dopingukindralid","publisher":"Rahva Raamat","author":"Paavo Kangur","link":"https://www.apollo.ee/tippsport-ja-dopingukindralid.html","yearOfPublishing":2021,"price":20.95}

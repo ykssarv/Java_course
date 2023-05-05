@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Homage to Catalonia","publisher":"Vintage Classics","author":"George Orwell","link":"https://www.apollo.ee/homage-to-catalonia.html","yearOfPublishing":2021,"price":9.95}

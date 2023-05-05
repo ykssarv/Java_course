@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Uude Maailma: Eesti arhitektid Torontos","publisher":"Eesti Arhitektuurimuuseum","author":"Koostaja","link":"https://www.apollo.ee/uude-maailma-eesti-arhitektid-torontos.html","yearOfPublishing":2018,"price":26.99}

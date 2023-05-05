@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Ajaga võidu Mälestusi II","publisher":"Read OÜ","author":"Mart Laar","link":"https://www.apollo.ee/ajaga-voidu.html","yearOfPublishing":2020,"price":30.95}

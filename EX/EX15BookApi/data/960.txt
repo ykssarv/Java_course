@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Georg Ots 100","publisher":"Aleksandra kirjastus","author":"Kulle Raig","link":"https://www.apollo.ee/georg-ots-100-287769.html","yearOfPublishing":2020,"price":29.95}

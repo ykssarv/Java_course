@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Where I Come from: Stories from the Deep South","publisher":"Knopf Publishing Group","author":"Rick Bragg","link":"https://www.apollo.ee/where-i-come-from-stories-from-the-deep-south.html","yearOfPublishing":2020,"price":20.99}

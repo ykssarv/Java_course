@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Heimtali teejuht","publisher":"Eesti Rahva Muuseum","author":"Kaarel Tarand, Anna Liisa Regensperger, Merike Tamm","link":"https://www.apollo.ee/heimtali-teejuht.html","yearOfPublishing":2021,"price":4.95}

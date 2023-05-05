@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Book of Humans","publisher":"Weidenfeld\u0026Nicholson","author":"Adam Rutherford","link":"https://www.apollo.ee/book-of-humans.html","yearOfPublishing":2020,"price":6.99}

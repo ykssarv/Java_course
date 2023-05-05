@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Diary of a Young Naturalist","publisher":"Ebury Press","author":"Dara McAnulty","link":"https://www.apollo.ee/diary-of-a-young-naturalist.html","yearOfPublishing":2021,"price":10.95}

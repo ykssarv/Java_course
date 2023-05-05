@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Beauty and the Terror","publisher":"Vintage","author":"Catherine Fletcher","link":"https://www.apollo.ee/the-beauty-and-the-terror.html","yearOfPublishing":2021,"price":12.95}

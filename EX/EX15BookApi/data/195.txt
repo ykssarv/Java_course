@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"A-Z of Eastbourne: Places-People-History","publisher":"Amberley Publishing","author":"Kevin Gordon","link":"https://www.apollo.ee/a-z-of-eastbourne-places-people-history.html","yearOfPublishing":2019,"price":18.99}

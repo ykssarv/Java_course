@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Müstiline aasta Folkloor, maagia ja loodus","publisher":"Sinisukk","author":"Alison Davies","link":"https://www.apollo.ee/mustiline-aasta.html","yearOfPublishing":2021,"price":22.95}

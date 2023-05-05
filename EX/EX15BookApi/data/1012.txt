@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Warhol","publisher":"Penguin","author":"Blake Gopnik","link":"https://www.apollo.ee/warhol-300615.html","yearOfPublishing":2021,"price":21.95}

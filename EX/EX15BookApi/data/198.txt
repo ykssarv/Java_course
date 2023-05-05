@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Hitler Conspiracies","publisher":"Penguin Books","author":"Richard J. Evans","link":"https://www.apollo.ee/the-hitler-conspiracies.html","yearOfPublishing":2020,"price":25.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Ebajumalate raamat Kitab al-asnam","publisher":"Tartu Ülikooli Kirjastus","author":"Hišam ibn al-Kalbi","link":"https://www.apollo.ee/ebajumalate-raamat.html","yearOfPublishing":2019,"price":21.95}

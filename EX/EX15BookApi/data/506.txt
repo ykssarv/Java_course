@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Maailma horoskoobid","publisher":"Odamees","author":"Koostaja Gerda Kroom","link":"https://www.apollo.ee/maailma-horoskoobid-241918.html","yearOfPublishing":2020,"price":12.99}

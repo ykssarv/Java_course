@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Promise Me You´ll Shoot Yourself","publisher":"Penguin Books","author":"Florian Huber","link":"https://www.apollo.ee/promise-me-you-ll-shoot-yourself.html","yearOfPublishing":2020,"price":12.95}

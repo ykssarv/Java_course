@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Know My Name","publisher":"Penguin Books","author":"Chanel Miller","link":"https://www.apollo.ee/know-my-name.html","yearOfPublishing":2020,"price":12.95}

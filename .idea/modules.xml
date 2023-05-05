@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EX/EX00Hello/EX00Hello.iml" filepath="$PROJECT_DIR$/EX/EX00Hello/EX00Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX01IdCode/EX01IdCode.iml" filepath="$PROJECT_DIR$/EX/EX01IdCode/EX01IdCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX02WebBrowser/EX02WebBrowser.iml" filepath="$PROJECT_DIR$/EX/EX02WebBrowser/EX02WebBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX03Bookshelf/EX03Bookshelf.iml" filepath="$PROJECT_DIR$/EX/EX03Bookshelf/EX03Bookshelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX04SocialNetwork/EX04SocialNetwork.iml" filepath="$PROJECT_DIR$/EX/EX04SocialNetwork/EX04SocialNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX05MysticOrbs/EX05MysticOrbs.iml" filepath="$PROJECT_DIR$/EX/EX05MysticOrbs/EX05MysticOrbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX06Files/EX06Files.iml" filepath="$PROJECT_DIR$/EX/EX06Files/EX06Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX07Coffee/EX07Coffee.iml" filepath="$PROJECT_DIR$/EX/EX07Coffee/EX07Coffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX08Delivery/EX08Delivery.iml" filepath="$PROJECT_DIR$/EX/EX08Delivery/EX08Delivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX11ComputerStore/EX11ComputerStore.iml" filepath="$PROJECT_DIR$/EX/EX11ComputerStore/EX11ComputerStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX12ComputerBuilder/EX12ComputerBuilder.iml" filepath="$PROJECT_DIR$/EX/EX12ComputerBuilder/EX12ComputerBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX13Pokemon/EX13Pokemon.iml" filepath="$PROJECT_DIR$/EX/EX13Pokemon/EX13Pokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX/EX15BookApi/EX15BookApi.iml" filepath="$PROJECT_DIR$/EX/EX15BookApi/EX15BookApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXAM/EXAM1/EXAM1.iml" filepath="$PROJECT_DIR$/EXAM/EXAM1/EXAM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXAM/EXAM2/EXAM2.iml" filepath="$PROJECT_DIR$/EXAM/EXAM2/EXAM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GOMOKU/Gomoku/Gomoku.iml" filepath="$PROJECT_DIR$/GOMOKU/Gomoku/Gomoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KT/KT2/KT2.iml" filepath="$PROJECT_DIR$/KT/KT2/KT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX/LX.iml" filepath="$PROJECT_DIR$/LX/LX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX/LX02PersonStatistics/LX02PersonStatistics.iml" filepath="$PROJECT_DIR$/LX/LX02PersonStatistics/LX02PersonStatistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX/LX03Recursion/LX03Recursion.iml" filepath="$PROJECT_DIR$/LX/LX03Recursion/LX03Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX/LX04HashCode/LX04HashCode.iml" filepath="$PROJECT_DIR$/LX/LX04HashCode/LX04HashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXAM/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/EXAM/OOP1/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PR/PR01Introduction/PR01Introduction.iml" filepath="$PROJECT_DIR$/PR/PR01Introduction/PR01Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PR/PR02DataStructures/PR02DataStructures.iml" filepath="$PROJECT_DIR$/PR/PR02DataStructures/PR02DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PR/PR03Ring/PR03Ring.iml" filepath="$PROJECT_DIR$/PR/PR03Ring/PR03Ring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PR/PR04Stock/PR04Stock.iml" filepath="$PROJECT_DIR$/PR/PR04Stock/PR04Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PR/PR06Shelter/PR06Shelter.iml" filepath="$PROJECT_DIR$/PR/PR06Shelter/PR06Shelter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TK/TK.iml" filepath="$PROJECT_DIR$/TK/TK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iti0202-2021.iml" filepath="$PROJECT_DIR$/.idea/iti0202-2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

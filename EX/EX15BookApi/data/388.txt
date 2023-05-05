@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Programmeerimine algajatele. Rapid Q","publisher":"Külim","author":"Indrek Triipus","link":"https://www.apollo.ee/programmeerimine-algajatele-rapid-q.html","yearOfPublishing":2004}

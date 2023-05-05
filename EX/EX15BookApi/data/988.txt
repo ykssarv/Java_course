@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Teel Pilguheit jaapani hinge","publisher":"Canopus","author":"Agu Sisask","link":"https://www.apollo.ee/teel.html","yearOfPublishing":2020,"price":20.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Termograafia ehituses","publisher":"ET Infokeskuse AS","author":"Sauli Paloniitty","link":"https://www.apollo.ee/termograafia-ehituses.html","yearOfPublishing":2016,"price":47.99}

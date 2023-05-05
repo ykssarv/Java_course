@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Hando Kruuv - Tartu da Vinci","publisher":"MTÜ Heliraamat","author":"Kati S.B. Murutar","link":"https://www.apollo.ee/hando-kruuv-tartu-da-vinci.html","yearOfPublishing":2020,"price":24.95}

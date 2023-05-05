@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"Klõpsa õiget nuppu Arvuti ja internet iseõppijale. Täiendatud väljaanne","publisher":"Tü Mondo","author":"Andi Kondor","link":"https://www.apollo.ee/klopsa-oiget-nuppu.html","yearOfPublishing":2020,"price":29.95}

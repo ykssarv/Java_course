@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"King of the World","publisher":"Penguin","author":"Philip Mansel","link":"https://www.apollo.ee/king-of-the-world.html","yearOfPublishing":2021,"price":18.95}

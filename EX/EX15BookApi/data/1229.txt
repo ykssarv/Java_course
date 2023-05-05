@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Lood Jeesusest","publisher":"Eesti Piibliselts","link":"https://www.apollo.ee/lood-jeesusest.html","yearOfPublishing":2019,"price":19.95}

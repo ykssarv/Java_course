@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Zidane´i kaks elu","publisher":"Tänapäev","author":"Jean Philippe, Patrick Fort","link":"https://www.apollo.ee/zidane-i-kaks-elu.html","yearOfPublishing":2020,"price":27.95}

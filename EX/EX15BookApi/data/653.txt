@@ -1,0 +1,1 @@
+{"topics":["astroloogia-ja-maagia"],"title":"The Literary Book of Answers","publisher":"Hachette Books","author":"Carol Bolt","link":"https://www.apollo.ee/the-literary-book-of-answers.html","yearOfPublishing":2018,"price":19.99}

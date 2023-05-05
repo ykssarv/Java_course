@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"How Did I Get Here?: A Memoir","publisher":"Blue Rider Press","author":"Bruce McCall","link":"https://www.apollo.ee/how-did-i-get-here-a-memoir.html","yearOfPublishing":2020,"price":20.99}

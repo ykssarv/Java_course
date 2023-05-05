@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Ghost Ships of the Baltic Sea","publisher":"Bokforlaget Max Strom","author":"Carl Douglas","link":"https://www.apollo.ee/ghost-ships-of-the-baltic-sea.html","yearOfPublishing":2021,"price":43.91}

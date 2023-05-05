@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Franci´s War","publisher":"Michael Joseph","author":"Franci Rabinek Epstein","link":"https://www.apollo.ee/franci-s-war.html","yearOfPublishing":2021,"price":10.95}

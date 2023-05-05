@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Future Cities: A Visual Guide","publisher":"Bloomsbury Publishing PLC","author":"Nick Dunn,Dr Paul Cureton","link":"https://www.apollo.ee/future-cities-a-visual-guide-282546.html","yearOfPublishing":2020,"price":30.99}

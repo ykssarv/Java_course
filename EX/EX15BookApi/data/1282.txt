@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Vagu","publisher":"Kirjastus Gallus","author":"Josemaría Escrivá de Balaguer","link":"https://www.apollo.ee/vagu.html","yearOfPublishing":2018,"price":12.0}

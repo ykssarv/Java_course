@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Childhood, Youth, Dependency","publisher":"Penguin Books","author":"Tove Ditlevsen","link":"https://www.apollo.ee/childhood-youth-dependency.html","yearOfPublishing":2020,"price":12.95}

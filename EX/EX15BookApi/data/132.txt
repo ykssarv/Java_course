@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Empireland How Imperialism Has Shaped Modern Britain","publisher":"Viking","author":"Sathnam Sanghera","link":"https://www.apollo.ee/empireland.html","yearOfPublishing":2021,"price":23.95}

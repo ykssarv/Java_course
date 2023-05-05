@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"My Life in Red and White : My Autobiography","publisher":"Orion","link":"https://www.apollo.ee/my-life-in-red-and-white-my-autobiography.html","yearOfPublishing":2020,"price":18.95}

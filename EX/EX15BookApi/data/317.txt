@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"Arvutid, küberruum ja tehismõistus: Noppeid arvutite imepärasest eduloost","publisher":"Tallinna Ülikooli Kirjastus","author":"Enn Tõugu","link":"https://www.apollo.ee/arvutid-kuberruum-ja-tehismoistus-noppeid-arvutite-imeparasest-eduloost.html","yearOfPublishing":2018}

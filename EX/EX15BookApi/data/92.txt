@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Morsevõtmest hiireklikini Ajarännakul Eesti raadioamatööridega.","publisher":"MTÜ Eesti Raadioamatööride Ühing","author":"Teolan Tomson, Arvo Pihl","link":"https://www.apollo.ee/morsevotmest-hiireklikini.html","yearOfPublishing":2020,"price":42.95}

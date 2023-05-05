@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Milline on taevas?","publisher":"EKNK Toompea kogudus","author":"John Burke","link":"https://www.apollo.ee/milline-on-taevas.html","yearOfPublishing":2020,"price":29.95}

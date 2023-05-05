@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Black Banners Declassified","publisher":"Penguin","author":"Ali Soufan","link":"https://www.apollo.ee/the-black-banners-declassified.html","yearOfPublishing":2021,"price":13.95}

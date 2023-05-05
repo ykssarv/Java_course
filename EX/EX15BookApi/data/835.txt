@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Elemental","publisher":"Phaidon Press Ltd","author":"Alejandro Aravena","link":"https://www.apollo.ee/elemental.html","yearOfPublishing":2018,"price":93.49}

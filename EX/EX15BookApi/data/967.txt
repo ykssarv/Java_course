@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Keskkonna rakkes elu","publisher":"Osaühing Net Systems Group","author":"Tõnis Kaasiku","link":"https://www.apollo.ee/keskkonna-rakkes-elu.html","yearOfPublishing":2020,"price":19.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Valitsuse maja Vene revolutsiooni saaga","publisher":"Varrak","author":"Yuri Slezkine","link":"https://www.apollo.ee/valitsuse-maja.html","yearOfPublishing":2020,"price":23.77}

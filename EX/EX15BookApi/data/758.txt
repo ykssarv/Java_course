@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"IDEE 1/2017","publisher":"Arhitektuurikirjastus SOLNESS","link":"https://www.apollo.ee/idee-1-2017.html","yearOfPublishing":2017,"price":4.5}

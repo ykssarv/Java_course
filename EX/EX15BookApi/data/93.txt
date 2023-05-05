@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Rjurikud.","publisher":"Grenader Grupp OÜ","author":"Jüri Kotšinev","link":"https://www.apollo.ee/rjurikud.html","yearOfPublishing":2020,"price":19.95}

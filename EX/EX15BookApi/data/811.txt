@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Home Stories","publisher":"Abrams","author":"Kim Leggett","link":"https://www.apollo.ee/home-stories.html","yearOfPublishing":2020,"price":31.95}

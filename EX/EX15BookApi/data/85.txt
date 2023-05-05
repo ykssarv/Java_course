@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Hitleri õukond Füüreri lähiring Kolmandas Riigis ja hiljem","publisher":"AS Äripäev","author":"Heike B. Görtemaker","link":"https://www.apollo.ee/hitleri-oukond.html","yearOfPublishing":2020,"price":27.99}

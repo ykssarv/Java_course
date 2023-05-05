@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Pre-Fab Living","publisher":"Thames \u0026 Hudson Ltd","author":"Avi Friedman","link":"https://www.apollo.ee/pre-fab-living.html","yearOfPublishing":2021,"price":32.99}

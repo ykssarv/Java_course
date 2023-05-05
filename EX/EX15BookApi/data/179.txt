@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"War for the Seas: A Maritime History of World War II","publisher":"Yale University Press","author":"Evan Mawdsley","link":"https://www.apollo.ee/war-for-the-seas-a-maritime-history-of-world-war-ii.html","yearOfPublishing":2020,"price":17.95}

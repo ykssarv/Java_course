@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Viimane lahke maja Narva kultuurilooline reisijuht","publisher":"AS Pakett","author":"Katri Raik","link":"https://www.apollo.ee/viimane-lahke-maja.html","yearOfPublishing":2020,"price":27.95}

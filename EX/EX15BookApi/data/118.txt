@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Barbarossa","publisher":"Viking","author":"Jonathan Dimbleby","link":"https://www.apollo.ee/barbarossa.html","yearOfPublishing":2021,"price":31.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"War for Eternity","publisher":"Penguin","author":"Benjamin R. Teitelbaum","link":"https://www.apollo.ee/war-for-eternity.html","yearOfPublishing":2021,"price":13.95}

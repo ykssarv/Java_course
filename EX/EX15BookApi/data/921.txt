@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Elada huvitaval ajal – needus või võimalus? Tehes ja jälgides rahvusvahelist õigust: meenutusi ja vaateid","publisher":"Varrak","author":"Rein Müllerson","link":"https://www.apollo.ee/elu-huvitaval-ajal.html","yearOfPublishing":2021,"price":25.95}

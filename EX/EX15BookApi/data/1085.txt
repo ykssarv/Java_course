@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Year of the Monkey","publisher":"Bloomsbury Publishing","author":"Patti Smith","link":"https://www.apollo.ee/year-of-the-monkey.html","yearOfPublishing":2020,"price":11.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Clash of Civilizations","publisher":"Free Press","author":"Samuel P. Huntington","link":"https://www.apollo.ee/clash-of-civilizations.html","yearOfPublishing":2017,"price":4.99}

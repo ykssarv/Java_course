@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"This Sovereign Isle","publisher":"Allen Lane","author":"Robert Tombs","link":"https://www.apollo.ee/this-sovereign-isle.html","yearOfPublishing":2021,"price":21.95}

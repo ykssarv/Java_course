@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Riistvara ja tehniline dokumentatsioon","publisher":"Indrek Zolk","author":"Indrek Zolk","link":"https://www.apollo.ee/riistvara-ja-tehniline-dokumentatsioon.html","yearOfPublishing":2007}

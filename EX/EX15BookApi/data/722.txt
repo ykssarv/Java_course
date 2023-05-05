@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Tartu villad","publisher":"Hea Lugu","author":"Enriko Talvistu","link":"https://www.apollo.ee/tartu-villad.html","yearOfPublishing":2019,"price":24.95}

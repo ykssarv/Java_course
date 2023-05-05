@@ -1,0 +1,1 @@
+{"language":"Soome","topics":["ajalugu"],"title":"Viron lyhyt historia","publisher":"Grenader Grupp OÜ","author":"Mart Laar","link":"https://www.apollo.ee/viron-lyhyt-historia.html","yearOfPublishing":2017,"price":8.1}

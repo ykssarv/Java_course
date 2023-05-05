@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Lives Of The Stoics","publisher":"Portfolio","author":"Ryan Holiday","link":"https://www.apollo.ee/lives-of-the-stoics.html","yearOfPublishing":2020,"price":15.95}

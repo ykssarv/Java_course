@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Sisearhitekt Aulo Padar","publisher":"Eesti Arhitektuurimuuseum","author":"Karen Jagodin, Sille Pihlak","link":"https://www.apollo.ee/sisearhitekt-aulo-padar.html","yearOfPublishing":2020,"price":28.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Crown : The official book of the hit Netflix series","publisher":"Bonnier","author":"Robert Lacey","link":"https://www.apollo.ee/the-crown-the-official-book-of-the-hit-netflix-series.html","yearOfPublishing":2017,"price":24.95}

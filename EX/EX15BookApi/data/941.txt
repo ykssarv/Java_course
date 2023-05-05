@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Luka Modri? Sündinud jalgpalluriks","publisher":"Helios kirjastus","author":"Luka Modri?, Robert Matteoni","link":"https://www.apollo.ee/luka-modric.html","yearOfPublishing":2020,"price":26.95}

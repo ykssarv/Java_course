@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Rumsfeldi reeglid Juhi õppetunnid ärist, poliitikast, sõjast ja elust","publisher":"Postimees Kirjastus","author":"Donald Rumsfeld","link":"https://www.apollo.ee/rumsfeldi-reeglid.html","yearOfPublishing":2020,"price":19.99}

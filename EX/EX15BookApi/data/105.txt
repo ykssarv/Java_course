@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Open","publisher":"Atlantic","author":"Johan Norberg","link":"https://www.apollo.ee/open.html","yearOfPublishing":2021,"price":12.95}

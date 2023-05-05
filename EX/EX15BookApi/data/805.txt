@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Architectural Styles : A Visual Guide","publisher":"Thames \u0026 Hudson","author":"Robbie Polley, Margaret Fletcher","link":"https://www.apollo.ee/architectural-styles-a-visual-guide.html","yearOfPublishing":2021,"price":24.95}

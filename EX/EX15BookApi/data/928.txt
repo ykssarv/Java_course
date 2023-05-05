@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Sammhaaval","publisher":"Tänapäev","author":"Simon Reeve","link":"https://www.apollo.ee/sammhaaval.html","yearOfPublishing":2021,"price":24.95}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Programmeerimise praktikumid Algklassid","publisher":"TÜ Kirjastus","author":"Jaanus Jaeger, Jüri Kiho, Ireen Meho, Reimo Palm, Ahti Peder, Uuno Puus, Priit Salumaa, Eno Tõnisson ja Heli Uibo","link":"https://www.apollo.ee/programmeerimise-praktikumid.html","yearOfPublishing":2003}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Murder Maps","publisher":"Thames \u0026 Hudson","author":"Drew Gray","link":"https://www.apollo.ee/murder-maps.html","yearOfPublishing":2020,"price":31.95}

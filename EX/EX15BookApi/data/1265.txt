@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Karma diagnostika I raamat. Välja iseregulatsiooni süsteem","publisher":"Eesti Transpersonaalne Assotsiatsioon","author":"Sergei Lazarev","link":"https://www.apollo.ee/karma-diagnostika.html","yearOfPublishing":2018,"price":27.5}

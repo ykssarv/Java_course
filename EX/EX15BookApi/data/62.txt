@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Viikingid Maadeavastajad ja vallutajad","publisher":"AS Äripäev","author":"Jörn Staecker ja Matthias Toplak","link":"https://www.apollo.ee/viikingid.html","yearOfPublishing":2020,"price":36.95}

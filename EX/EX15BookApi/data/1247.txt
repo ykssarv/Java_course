@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Jutlused meeleparandusest","publisher":"EKSA","author":"Püha Johannes Kuldsuu","link":"https://www.apollo.ee/jutlused-meeleparandusest.html","yearOfPublishing":2019,"price":16.95}

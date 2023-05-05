@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Jaan Kross ja Tallinn","author":"Maarja Undusk","link":"https://www.apollo.ee/jaan-kross-ja-tallinn.html","yearOfPublishing":2020,"price":24.95}

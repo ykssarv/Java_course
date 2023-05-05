@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Kõrbe isevalitseja Roman von Ungern-Sternberg ja aeg, milles ta elas","publisher":"Postimees","author":"Leonid Juzefovitš","link":"https://www.apollo.ee/korbe-isevalitseja.html","yearOfPublishing":2021,"price":41.95}

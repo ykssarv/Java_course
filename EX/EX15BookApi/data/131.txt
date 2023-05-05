@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The New Age of Empire","publisher":"Allen Lane","author":"Kehinde Andrews","link":"https://www.apollo.ee/the-new-age-of-empire.html","yearOfPublishing":2021,"price":25.95}

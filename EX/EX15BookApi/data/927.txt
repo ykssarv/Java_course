@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Mari-Liis Küla","publisher":"Tallinna Linnateater","author":"Ene-Liis Semper","link":"https://www.apollo.ee/mari-liis-kula.html","yearOfPublishing":2021,"price":49.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Puit Eesti arhitektuuris","publisher":"Eesti Metsa- ja Puidutööstuse Liit","author":"Leele Välja","link":"https://www.apollo.ee/puit-eesti-arhitektuuris.html","yearOfPublishing":2016,"price":38.99}

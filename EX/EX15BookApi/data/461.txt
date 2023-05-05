@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Maa ja taeva maagia Vaatame tulevikku","publisher":"Kirjastus Koduülikooli loengud","author":"Villu Põldma","link":"https://www.apollo.ee/maa-ja-taeva-maagia.html","yearOfPublishing":2020,"price":21.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eesti väike talvesõda 1944","publisher":"Ammukaar","author":"Hanno Ojalo","link":"https://www.apollo.ee/eesti-vaike-talvesoda-1944.html","yearOfPublishing":2018,"price":19.95}

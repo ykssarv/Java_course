@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Artur Sirgu elu ja surm","publisher":"KAVA Kirjastus","author":"Kalle Muuli","link":"https://www.apollo.ee/artur-sirgu-elu-ja-surm.html","yearOfPublishing":2020,"price":9.99}

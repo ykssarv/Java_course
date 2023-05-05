@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Linnad inimestele","publisher":"Yoko Oma OÜ, Eesti Arhitektuurikeskus MTÜ","author":"Jan Gehl","link":"https://www.apollo.ee/linnad-inimestele-293397.html","yearOfPublishing":2017,"price":22.95}

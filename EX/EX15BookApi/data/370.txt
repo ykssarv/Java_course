@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"UMLi kontsentraat Objektmodelleerimise standardkeele UML 2.0 lühijuhend. 3. redaktsioon","author":"Martin Fowler","link":"https://www.apollo.ee/umli-kontsentraat.html","yearOfPublishing":2007}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"000 ja 111 taga on maailm. Kultuuritehnoloogia käsiraamat","publisher":"Kleio","author":"Kurmo Konsa","link":"https://www.apollo.ee/000-ja-111-taga-on-maailm-kultuuritehnoloogia-kasiraamat.html","yearOfPublishing":2016,"price":19.75}

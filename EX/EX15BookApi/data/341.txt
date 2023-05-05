@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Tehisintellekt","publisher":"Tartu Ülikooli Kirjastus","author":"Mare Koit; Tiit Roosmaa","link":"https://www.apollo.ee/tehisintellekt.html","yearOfPublishing":2011}

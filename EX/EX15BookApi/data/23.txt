@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Võitlus elu ja surma peale. Saksa sõduri mälestused Idarindelt.","publisher":"Grenader Grupp OÜ","author":"Gottlob Herbert Bidermann","link":"https://www.apollo.ee/voitlus-elu-ja-surma-peale.html","yearOfPublishing":2021,"price":30.95}

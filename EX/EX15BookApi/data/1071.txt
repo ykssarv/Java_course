@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"How I Learned to Understand the World","publisher":"HODDER \u0026 STOUGHTON","author":"Hans Rosling","link":"https://www.apollo.ee/how-i-learned-to-understand-the-world.html","yearOfPublishing":2020,"price":13.99}

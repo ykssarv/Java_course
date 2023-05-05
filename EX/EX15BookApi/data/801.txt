@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Architecture","publisher":"Pelican","author":"Barnabas Calder","link":"https://www.apollo.ee/architecture.html","yearOfPublishing":2021,"price":25.95}

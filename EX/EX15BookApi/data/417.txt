@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Business Intelligence and Analytics in Small and Medium Enterprises","publisher":"Taylor \u0026 Francis Ltd","link":"https://www.apollo.ee/business-intelligence-and-analytics-in-small-and-medium-enterprises.html","yearOfPublishing":2019,"price":164.49}

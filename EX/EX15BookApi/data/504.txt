@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Suur raamat šamaanist","publisher":"Tiit Teras","author":"Vladimir Serkin","link":"https://www.apollo.ee/suur-raamat-samaanist.html","yearOfPublishing":2020,"price":26.95}

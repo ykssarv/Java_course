@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Mees 5. Köögikurat","publisher":"Jes Kirjastus","author":"Herkki Ruubel","link":"https://www.apollo.ee/mees-5-koogikurat.html","yearOfPublishing":2020,"price":8.99}

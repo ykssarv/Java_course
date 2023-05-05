@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"May Day","publisher":"Penguin Putnam Inc","author":"Phillis Levin","link":"https://www.apollo.ee/may-day.html","yearOfPublishing":2019}

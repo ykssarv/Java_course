@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Excel ettevõtte majanduslike seoste analüüsil ja lahendamisel","publisher":"Tartu Ülikooli Kirjastus","author":"Anu Reiljan, Merike Kaseorg, Oliver Lukason","link":"https://www.apollo.ee/excel-ettevotte-majanduslike-seoste-analuusil-ja-lahendamisel.html","yearOfPublishing":2004}

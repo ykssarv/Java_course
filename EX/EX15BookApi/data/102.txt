@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Sicily ´43","publisher":"Corgi","author":"James Holland","link":"https://www.apollo.ee/sicily-43.html","yearOfPublishing":2021,"price":10.95}

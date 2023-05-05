@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"East Anglia in Photographs","publisher":"Amberley Publishing","author":"Jamie Skipper","link":"https://www.apollo.ee/east-anglia-in-photographs.html","yearOfPublishing":2019,"price":22.49}

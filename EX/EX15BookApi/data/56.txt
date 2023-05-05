@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eesti ajalugu I","publisher":"TÜ Ajaloo- ja Arheoloogia Instituut","author":"Aivar Kriiska, Valter Lang, Ain Mäesalu, Andres Tvauri, Heiki Valk","link":"https://www.apollo.ee/eesti-ajalugu-i.html","yearOfPublishing":2020,"price":34.95}

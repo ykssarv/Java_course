@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Mediterranean in History","publisher":"Thames \u0026 Hudson","author":"Oliver Rackham","link":"https://www.apollo.ee/the-mediterranean-in-history.html","yearOfPublishing":2021,"price":16.95}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Excel 2007-2010 valemid ja funktsioonid käsiraamat + CD","publisher":"Binari Pro OÜ","author":"Riina Reinumägi","link":"https://www.apollo.ee/excel-2007-2010-valemid-ja-funktsioonid.html","yearOfPublishing":2012,"price":29.65}

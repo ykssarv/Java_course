@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Usu valgus","publisher":"Gallus","author":"Franciscus","link":"https://www.apollo.ee/usu-valgus.html","yearOfPublishing":2013,"price":5.45}

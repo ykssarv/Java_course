@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Paulus. Rahvaste apostel ja meie tänapäeval","publisher":"Johannes Esto Kirjastus","author":"Arne Hiob","link":"https://www.apollo.ee/paulus-rahvaste-apostel-ja-meie-tanapaeval.html","yearOfPublishing":2018,"price":21.65}

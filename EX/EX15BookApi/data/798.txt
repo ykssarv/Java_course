@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Eesti betoonehituse ajalugu The History of Estonian Concrete Construction","publisher":"In Nomine OÜ","author":"Uno Trumm, Paavo Kangur","link":"https://www.apollo.ee/eesti-betoonehituse-ajalugu.html","yearOfPublishing":2014,"price":36.75}

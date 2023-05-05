@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"You Are Cosmic Code","publisher":"Random House","author":"Kaitlyn Kaerhart","link":"https://www.apollo.ee/you-are-cosmic-code.html","yearOfPublishing":2020,"price":9.95}

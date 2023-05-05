@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Eesti Rahva Muuseumi peahoone Raadil. Essee ruumikultuurist","publisher":"Eesti Rahva Muueum","author":"Gregor Taul","link":"https://www.apollo.ee/eesti-rahva-muuseumi-peahoone-raadil-essee-ruumikultuurist.html","yearOfPublishing":2016,"price":97.79}

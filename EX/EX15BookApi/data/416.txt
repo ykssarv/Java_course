@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Changing Things: The Future of Objects in a Digital World","publisher":"Bloomsbury Publishing PLC","author":"Johan Redstrom,Heather Wiltse","link":"https://www.apollo.ee/changing-things-the-future-of-objects-in-a-digital-world-221761.html","yearOfPublishing":2020,"price":32.49}

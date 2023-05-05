@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Konstantin Päts. Vang nr 12","publisher":"Postimees Kirjastus","author":"Vladimir Pool","link":"https://www.apollo.ee/konstantin-pats-vang-nr-12.html","yearOfPublishing":2020,"price":23.95}

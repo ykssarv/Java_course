@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"Arvutitehnika riistvara","publisher":"Tallinna Tehnikaülikooli Kirjastus","author":"Teet Evartson","link":"https://www.apollo.ee/arvutitehnika-riistvara.html","price":19.99}

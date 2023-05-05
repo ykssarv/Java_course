@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"The Dreamer","publisher":"Ebury Press","author":"Cliff Richard","link":"https://www.apollo.ee/the-dreamer-301116.html","yearOfPublishing":2021,"price":8.95}

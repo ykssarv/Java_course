@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Tehiskivimaterjalid Eesti 20. sajandi arhitektuuris Kasutuslugu ja väärtustamine","publisher":"Eesti Kunstiakadeemia","author":"Maris Mändel","link":"https://www.apollo.ee/tehiskivimaterjalid-eesti-20-sajandi-arhitektuuris.html","yearOfPublishing":2019,"price":23.95}

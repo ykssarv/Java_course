@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"True Believer","publisher":"Crown","author":"Abraham Riesman","link":"https://www.apollo.ee/true-believer.html","yearOfPublishing":2020,"price":23.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vald. Talurahva omavalitsus 1866–1918","publisher":"Rahvusarhiiv","author":"Ülle Tarkiainen","link":"https://www.apollo.ee/vald-talurahva-omavalitsus-1866-1918.html","yearOfPublishing":2021,"price":36.95}

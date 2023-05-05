@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"End Is Always Near","publisher":"William Collins","author":"Dan Carlin","link":"https://www.apollo.ee/end-is-always-near.html","yearOfPublishing":2019,"price":15.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Rakvere elanikud kreisilinna aastail 1783-1917","publisher":"AS Virumaa Muuseumid","author":"Odette Kirss","link":"https://www.apollo.ee/rakvere-elanikud-kreisilinna-aastail-1783-1917.html","yearOfPublishing":2021,"price":44.95}

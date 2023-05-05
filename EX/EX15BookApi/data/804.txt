@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"The Great Builders","publisher":"Thames \u0026 Hudson","author":"Kenneth Powell","link":"https://www.apollo.ee/the-great-builders.html","yearOfPublishing":2021,"price":13.95}

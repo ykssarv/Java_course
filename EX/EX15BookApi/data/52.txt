@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Luuraja anatoomia","publisher":"Tänapäev","author":"Michael Smith","link":"https://www.apollo.ee/luuraja-anatoomia.html","yearOfPublishing":2021,"price":26.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Väikeriikide solidaarsusest. Islandi õppetunnid","publisher":"Hea Lugu","author":"Jón Baldvin Hannibalsson","link":"https://www.apollo.ee/vaikeriikide-solidaarsusest-islandi-oppetunnid.html","yearOfPublishing":2020,"price":10.99}

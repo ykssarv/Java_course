@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Kennedy dünastia","publisher":"Sinisukk","author":"James Patterson ja Cynthia Fagen","link":"https://www.apollo.ee/kennedy-dunastia.html","yearOfPublishing":2021,"price":42.95}

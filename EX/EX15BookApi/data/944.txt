@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Hiiumehe ränd","publisher":"Kass Fred OÜ","author":"Valeri Maksimov","link":"https://www.apollo.ee/hiiumehe-rand.html","yearOfPublishing":2020,"price":28.95}

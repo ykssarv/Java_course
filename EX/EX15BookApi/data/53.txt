@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eesti talu Uuem taluarhitektuur 1850–1950","publisher":"Tammerraamat OÜ","author":"Heiki Pärdi","link":"https://www.apollo.ee/eesti-talu.html","yearOfPublishing":2021,"price":25.95}

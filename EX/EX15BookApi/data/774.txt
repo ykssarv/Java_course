@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Face-to-face: Balti börsihoone lugu","publisher":"Eesti Arhitektuurimuuseum \u0026 Lugemik","link":"https://www.apollo.ee/face-to-face-balti-borsihoone-lugu.html","yearOfPublishing":2016,"price":18.0}

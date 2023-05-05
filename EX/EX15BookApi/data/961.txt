@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Sinuga ühes palatis","publisher":"Paradiis","author":"Alisa Verde","link":"https://www.apollo.ee/sinuga-uhes-palatis.html","yearOfPublishing":2020,"price":8.99}

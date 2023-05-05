@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Sajand sisearhitektuuri","publisher":"Eesti Sisearhitektide Liit","author":"Karin Paulus","link":"https://www.apollo.ee/sajand-sisearhitektuuri.html","yearOfPublishing":2016,"price":42.95}

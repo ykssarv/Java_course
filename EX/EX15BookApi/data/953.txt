@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Mees tornikambris","publisher":"Argo kirjasutus","author":"Jüri Kraft","link":"https://www.apollo.ee/mees-tornikambris.html","yearOfPublishing":2020,"price":19.95}

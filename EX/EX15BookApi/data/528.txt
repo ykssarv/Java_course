@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Nastja suur tarkuste raamat","publisher":"Fookus Meedia","author":"Kristiina Genno","link":"https://www.apollo.ee/nastja-suur-tarkuste-raamat.html","yearOfPublishing":2019,"price":19.9}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Kaardilt kadunud riigid 1840-1970","publisher":"Eesti Raamat","author":"Bjørn Berge","link":"https://www.apollo.ee/kaardilt-kadunud-riigid-1840-1970.html","yearOfPublishing":2020,"price":26.95}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Fotode töötlemine arvutiprogrammis Photoshop","author":"Võido Rahula","link":"https://www.apollo.ee/fotode-tootlemine-arvutiprogrammis-photoshop.html","yearOfPublishing":2006}

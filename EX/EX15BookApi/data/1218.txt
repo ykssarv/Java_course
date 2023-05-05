@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Mõtteid Kreeka mütoloogiast ja mõtlemisest","publisher":"Psii OÜ","author":"Endel Talvik","link":"https://www.apollo.ee/motteid-kreeka-mutoloogiast-ja-motlemisest.html","yearOfPublishing":2020,"price":44.95}

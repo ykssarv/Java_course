@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"SS Kella Vennaskond Natside uskumatud salarelvad","publisher":"Reval-Buch","author":"Joseph Farrell","link":"https://www.apollo.ee/ss-kella-vennaskond.html","yearOfPublishing":2020,"price":28.95}

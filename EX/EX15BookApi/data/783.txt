@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"SISU_LINE: Teooriast praktikani / Dynamics of theory and practice","publisher":"Eesti Sisearhitektide Liit","link":"https://www.apollo.ee/sisu-line-teooriast-praktikani-dynamics-of-theory-and-practice.html","yearOfPublishing":2015,"price":9.7}

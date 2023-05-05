@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Knowledge Machine","publisher":"Penguin Books","author":"Michael Strevens","link":"https://www.apollo.ee/the-knowledge-machine.html","yearOfPublishing":2020,"price":31.95}

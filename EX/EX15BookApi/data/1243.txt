@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Halastuse aeg","publisher":"MTÜ Allika","author":"Ema Teresa","link":"https://www.apollo.ee/halastuse-aeg-210125.html","yearOfPublishing":2019,"price":12.95}

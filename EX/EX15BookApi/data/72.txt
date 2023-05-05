@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vabad müürlased, 250 aastat vabamüürlust Eestis","publisher":"Eesti Vabamüürlaste Selts","author":"Anne Ruussaar","link":"https://www.apollo.ee/vabad-muurlased-250-aastat-vabamuurlust-eestis.html","yearOfPublishing":2020,"price":44.95}

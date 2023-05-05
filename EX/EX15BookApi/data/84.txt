@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Saare suured nõiad","publisher":"Tänapäev","author":"Karl Kello","link":"https://www.apollo.ee/saare-suured-noiad.html","yearOfPublishing":2020,"price":23.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Black Marxism","publisher":"Penguin Classics","author":"Cedric J. Robinson","link":"https://www.apollo.ee/black-marxism.html","yearOfPublishing":2021,"price":18.95}

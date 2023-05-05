@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Aphasia","publisher":"Oneworld Publications","author":"Mauro Javier Cardenas","link":"https://www.apollo.ee/aphasia.html","yearOfPublishing":2021,"price":20.49}

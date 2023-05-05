@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Splendid and the Vile A Saga of Churchill, Family and Defiance During the Blitz","publisher":"William Collins","author":"Erik Larson","link":"https://www.apollo.ee/the-splendid-and-the-vile.html","yearOfPublishing":2020,"price":18.95}

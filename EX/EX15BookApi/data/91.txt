@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vana Tallinna pärimused ja tõsilood","publisher":"Hea Lugu","author":"Jüri Kuuskemaa","link":"https://www.apollo.ee/vana-tallinna-parimused-ja-tosilood-277570.html","yearOfPublishing":2020,"price":28.95}

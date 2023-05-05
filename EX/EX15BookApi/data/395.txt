@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Rakenduste loomine andmebaasiga MS Access","publisher":"TTÜ Kirjastus","author":"Jelena Vendelin","link":"https://www.apollo.ee/rakenduste-loomine-andmebaasiga-ms-access.html","yearOfPublishing":2003}

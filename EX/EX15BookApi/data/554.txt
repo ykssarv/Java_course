@@ -1,0 +1,1 @@
+{"topics":["astroloogia-ja-maagia"],"title":"The Quickening","publisher":"Orion Publishing Co","author":"Rhiannon Ward","link":"https://www.apollo.ee/the-quickening.html","yearOfPublishing":2021,"price":11.99}

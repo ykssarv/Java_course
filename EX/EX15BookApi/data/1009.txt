@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Dear Girls","publisher":"Canongate","author":"Ali Wong","link":"https://www.apollo.ee/dear-girls.html","yearOfPublishing":2021,"price":12.95}

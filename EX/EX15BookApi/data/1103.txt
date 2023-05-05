@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"More Than a Woman","publisher":"Random House","author":"Caitlin Moran","link":"https://www.apollo.ee/more-than-a-woman.html","yearOfPublishing":2020,"price":10.99}

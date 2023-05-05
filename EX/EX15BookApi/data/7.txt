@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Kaks teed teaduses. Mälestusi ja esseid","publisher":"Kirjastus SE\u0026JS","author":"Riho Nõmmik","link":"https://www.apollo.ee/kaks-teed-teaduses-malestusi-ja-esseid.html","yearOfPublishing":2021,"price":24.95}

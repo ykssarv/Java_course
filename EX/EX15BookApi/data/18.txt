@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Stalini veinikelder","publisher":"Sinisukk","author":"John Baker, Nick Place","link":"https://www.apollo.ee/stalini-veinikelder.html","yearOfPublishing":2021,"price":42.95}

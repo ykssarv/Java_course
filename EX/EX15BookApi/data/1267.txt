@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Pühadus Paavst Franciscuse mõtteid igaks päevaks","publisher":"Maarjamaa","link":"https://www.apollo.ee/puhadus.html","yearOfPublishing":2018,"price":13.65}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Meenutusi lapsepõlvest. Linda Kaas","publisher":"Hea Tegu","author":"Margit Peterson","link":"https://www.apollo.ee/meenutusi-lapsepolvest-linda-kaas.html","yearOfPublishing":2021,"price":17.95}

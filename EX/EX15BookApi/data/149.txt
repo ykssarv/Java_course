@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Farne Islands","publisher":"Pavilion Books","author":"John Walton","link":"https://www.apollo.ee/farne-islands.html","yearOfPublishing":2018,"price":7.99}

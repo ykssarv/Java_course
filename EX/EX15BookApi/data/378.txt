@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Pingviiniaabits. Linux töölauaarvutis (Fedora core 2 näitel)","publisher":"Tallinna Ülikool","author":"Kaido Kikkas","link":"https://www.apollo.ee/pingviiniaabits-linux-toolauaarvutis-fedora-core-2-naitel.html","yearOfPublishing":2005}

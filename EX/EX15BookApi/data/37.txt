@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Parunid, eestlased ja enamlased","publisher":"Ilmamaa","author":"Carl Mothander","link":"https://www.apollo.ee/parunid-eestlased-ja-enamlased.html","yearOfPublishing":2010,"price":22.95}

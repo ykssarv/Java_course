@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Nuclear Folly","publisher":"Allen Lane","author":"Serhii Plokhy","link":"https://www.apollo.ee/nuclear-folly.html","yearOfPublishing":2021,"price":31.95}

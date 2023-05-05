@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arvuti-ja-internet"],"title":"The Gamer´s Guide to Coding: Design, Code, Build, Play","publisher":"Sterling","author":"Gordon McComb","link":"https://www.apollo.ee/the-gamer-s-guide-to-coding-design-code-build-play.html","yearOfPublishing":2018,"price":25.49}

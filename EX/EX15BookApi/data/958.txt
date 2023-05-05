@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Alender","publisher":"Pilgrim","author":"Urmas Alender","link":"https://www.apollo.ee/alender.html","yearOfPublishing":2020,"price":59.95}

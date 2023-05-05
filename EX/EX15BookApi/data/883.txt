@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"How to Read Towns and Cities: A Crash Course in Urban Architecture","publisher":"Bloomsbury Publishing PLC","author":"Jonathan Glancey","link":"https://www.apollo.ee/how-to-read-towns-and-cities-a-crash-course-in-urban-architecture.html","yearOfPublishing":2019,"price":18.99}

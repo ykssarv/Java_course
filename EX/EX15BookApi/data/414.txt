@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Advanced Quantitative Research Methods for Urban Planners","publisher":"Taylor \u0026 Francis Ltd","author":"Reid Ewing,Keunhyun Park","link":"https://www.apollo.ee/advanced-quantitative-research-methods-for-urban-planners-252805.html","yearOfPublishing":2020,"price":227.49}

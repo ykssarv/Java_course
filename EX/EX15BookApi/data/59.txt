@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Joovastatud tapma Sõjaajalugu kuue meelemürgi kaudu","publisher":"Varrak","author":"Peter Andreas","link":"https://www.apollo.ee/joovastatud-tapma.html","yearOfPublishing":2020,"price":30.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Romantikuna I maailmasõjas ja Petrogradis Mihkel Turmanni päeviku põhjal 1915–1917","publisher":"Varrak","author":"Koostanud Tiit Kaljuste","link":"https://www.apollo.ee/romantikuna-i-maailmasojas-ja-petrogradis.html","yearOfPublishing":2020,"price":23.95}

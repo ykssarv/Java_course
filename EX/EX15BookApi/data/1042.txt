@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Tim Cook","publisher":"Penguin","author":"Leander Kahney","link":"https://www.apollo.ee/tim-cook.html","yearOfPublishing":2021,"price":12.95}

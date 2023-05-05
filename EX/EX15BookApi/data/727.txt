@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Arhitektuur: sissejuhatus ruumilisse mõtlemisse","publisher":"Leonhard Lapin","author":"Leonhard Lapin","link":"https://www.apollo.ee/arhitektuur-sissejuhatus-ruumilisse-motlemisse.html","yearOfPublishing":2019}

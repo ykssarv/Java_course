@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Jalaka liin ja teised jutustused","publisher":"Kalev Jaik","author":"Kalev Jaik","link":"https://www.apollo.ee/jalaka-liin-ja-teised-jutustused.html","yearOfPublishing":2021,"price":17.95}

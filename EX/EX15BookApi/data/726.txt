@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Väikese linna suured mustrid","publisher":"Saarakiri","author":"Karen Klandorf, Kristiina Ribelus, Viljar Vissel","link":"https://www.apollo.ee/vaikese-linna-suured-mustrid.html","yearOfPublishing":2019,"price":45.95}

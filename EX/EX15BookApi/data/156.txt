@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Dear Leader","publisher":"Random House","author":"Jang Jin-Sung","link":"https://www.apollo.ee/dear-leader.html","yearOfPublishing":2014,"price":12.95}

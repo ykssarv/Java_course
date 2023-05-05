@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Tähtkujude salapära","publisher":"Tene Laul","author":"Tene Laul","link":"https://www.apollo.ee/tahtkujude-salapara.html","yearOfPublishing":2019,"price":28.5}

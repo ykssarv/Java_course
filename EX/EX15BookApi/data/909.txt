@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Ja kõik läheb mööda Kirjanik Aimée Beekman","publisher":"Eesti Raamat","author":"Sirly Hiiemäe","link":"https://www.apollo.ee/ja-koik-laheb-mooda.html","yearOfPublishing":2021,"price":22.95}

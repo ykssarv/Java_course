@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Tagasivaade","publisher":"Allika","author":"Heigo Ritsbek","link":"https://www.apollo.ee/tagasivaade-284376.html","yearOfPublishing":2020,"price":29.95}

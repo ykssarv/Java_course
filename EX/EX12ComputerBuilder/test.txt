@@ -1,0 +1,14 @@
+{
+  "components": {
+    "4": {
+      "id": 4,
+      "name": "Prose",
+      "type": "CPU",
+      "price": 10.0,
+      "amount": 1,
+      "manufacturer": "AMD",
+      "performancePoints": 100,
+      "powerConsumption": 10
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Rein Siim. Kulg Karate isa, taiji-meister, kunstnik ja piiride ületaja","publisher":"Taiji Selts MTÜ","author":"Marion Pajumets","link":"https://www.apollo.ee/rein-siim-kulg.html","yearOfPublishing":2020,"price":29.95}

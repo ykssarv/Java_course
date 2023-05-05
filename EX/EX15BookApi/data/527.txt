@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Kuldne taro","publisher":"Tänapäev","link":"https://www.apollo.ee/kuldne-taro-218439.html","yearOfPublishing":2019,"price":23.95}

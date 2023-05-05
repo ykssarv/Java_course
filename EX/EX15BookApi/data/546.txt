@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"MANIFESTO Sinu isiklik arengukalender","publisher":"Carmen Pritson","author":"Carmen Pritson","link":"https://www.apollo.ee/manifesto.html","yearOfPublishing":2018,"price":24.99}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Elu oli laif: Matti Nykänen","publisher":"Tänapäev","author":"Marko Lempinen, Jussi Niemi","link":"https://www.apollo.ee/elu-oli-laif-matti-nykanen.html","yearOfPublishing":2020,"price":28.95}

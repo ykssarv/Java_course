@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Once Upon a Time in Iraq","publisher":"BBC Books","author":"James Bluemel","link":"https://www.apollo.ee/once-upon-a-time-in-iraq-302402.html","yearOfPublishing":2021,"price":10.95}

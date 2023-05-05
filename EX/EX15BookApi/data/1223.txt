@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Peopesa. Vaimulikud mõtisklused","publisher":"Kirjastusselts Zeus","author":"Meelis-lauri Erikson","link":"https://www.apollo.ee/peopesa-vaimulikud-motisklused.html","yearOfPublishing":2020,"price":14.95}

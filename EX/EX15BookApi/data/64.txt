@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vello Salo. Palved ja hommikumõtisklused","publisher":"Kirjastus SE\u0026JS","author":"Ivar Tröner","link":"https://www.apollo.ee/vello-salo-palved-ja-hommikumotisklused.html","yearOfPublishing":2020,"price":17.95}

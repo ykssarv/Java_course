@@ -1,0 +1,2265 @@
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Taking resources from storage.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Taking resources from storage.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Taking resources from storage.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Taking resources from storage.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Taking resources from storage.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Taking resources from storage.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Taking 4 from water container.
+Creating Coca-cola
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Can't make coffee, because coffee machine doesn't know recipe.
+Unable to find machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Adding a machine to kitchen.
+Kitchen got an order to make coffee
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Found machine that can make coffee
+Making coffee
+Taking resources from storage.
+Creating coffee
+Created a recipe.
+Kitchen got an order to make coffee
+Unable to find machine that can make coffee
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Created a water container.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking water amount in storage.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making an automatic coffee machine.
+Creating an infinite resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+No capsules left for coffee, making water instead.
+Added 1 coffee to storage.
+Creating water
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Created a water container.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a capsule coffee machine.
+Creating a capsule resource storage.
+Taking resources from storage.
+Checking amount of coffee
+Making coffee
+Creating coffee
+Checking if storage has enough resources.
+Can't make coffee, because coffee machine doesn't have the required resources.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Created a recipe.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Starting a coffee machine.
+Checking amount of water
+Taking 10 from water container.
+Added 10 water to storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because coffee machine doesn't know recipe.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Can't make coffee, because garbage container is full.
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Found machine that can make coffee
+Created a recipe.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough water
+Can't make coffee, because coffee machine doesn't have the required resources.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Created a recipe.
+Creating a capsule resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking amount of coffee
+Checking amount of water
+Creating a capsule resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Checking water amount in storage.
+Checking amount of water
+Creating an infinite resource storage.
+Created a recipe.
+Checking if storage has enough resources.
+Creating an infinite resource storage.
+Created a recipe.
+Infinite storage always has a lot of beans
+Creating an infinite resource storage.
+Created a recipe.
+Created a recipe.
+Creating an infinite resource storage.
+Created a recipe.
+Taking resources from storage.
+Checking water amount in storage.
+Checking amount of water
+Infinite storage always has a lot of beans
+Creating a basic resource storage.
+Added 2 Water to storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Taking resources from storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Checking if storage has enough resources.
+Storage has enough resources.
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Not enough Water
+Creating a basic resource storage.
+Creating a basic resource storage.
+Checking if storage has enough resources.
+Storage has enough resources.
+Created a water container.
+Taking 5 from water container.
+Created a water container.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Making a normal coffee machine.
+Creating a basic resource storage.
+Starting a coffee machine.
+Checking amount of water
+Taking 90 from water container.
+Added 90 water to storage.
+Starting a coffee machine.
+Checking amount of water
+Refilling water container.
+Taking 20 from water container.
+Added 20 water to storage.
+Created a water container.
+Created a water container.
+Created a water container.

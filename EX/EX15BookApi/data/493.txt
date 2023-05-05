@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Tervise energia: astroloogi kokaraamat","publisher":"Paradiis","author":"Aleksei Kulkov ja Konstantin Krasik","link":"https://www.apollo.ee/tervise-energia-astroloogi-kokaraamat.html","yearOfPublishing":2020,"price":3.99}

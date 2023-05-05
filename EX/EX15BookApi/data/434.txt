@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"The Dress Detective: A Practical Guide to Object-Based Research in Fashion","publisher":"Bloomsbury Publishing PLC","author":"Ingrid Mida,Alexandra Kim","link":"https://www.apollo.ee/the-dress-detective-a-practical-guide-to-object-based-research-in-fashion.html","yearOfPublishing":2018,"price":32.99}

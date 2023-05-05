@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Sisearhitektuuri põhitõed: Kontekst + keskkond Basics Interior Architecture: Context + Environment","publisher":"Ava Raamat","author":"Graeme Brooker, Sally Stone","link":"https://www.apollo.ee/sisearhitektuuri-pohitoed-kontekst-keskkond.html","yearOfPublishing":2016}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Digital Minimalism: On Living Better with Less Technology","publisher":"Penguin Books Ltd","author":"Cal Newport","link":"https://www.apollo.ee/digital-minimalism-on-living-better-with-less-technology-230083.html","yearOfPublishing":2020,"price":13.99}

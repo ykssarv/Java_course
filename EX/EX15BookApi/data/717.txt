@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"18 aastat arhitekt Louis I. Kahniga","publisher":"In Nomine OÜ","author":"August E. Komendant","link":"https://www.apollo.ee/18-aastat-arhitekt-louis-i-kahniga.html","yearOfPublishing":2019,"price":23.95}

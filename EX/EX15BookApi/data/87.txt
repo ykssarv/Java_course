@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Eesti piirivalve ajalugu 1918–2020. Piiri valvel ja kaitsel","publisher":"Argo kirjastus","author":"Anu Raudsepp, Ingrid Mühling","link":"https://www.apollo.ee/eesti-piirivalve-ajalugu-1918-2020-piiri-valvel-ja-kaitsel.html","yearOfPublishing":2020,"price":34.95}

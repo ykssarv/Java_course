@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"The Key To The Tarot","publisher":"Random House","author":"A E Waite","link":"https://www.apollo.ee/the-key-to-the-tarot.html","yearOfPublishing":2020,"price":9.95}

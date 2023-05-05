@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Eesti mütoloogia","publisher":"Pegasus","author":"Matthias Johann Eisen","link":"https://www.apollo.ee/eesti-mutoloogia-219345.html","yearOfPublishing":2019,"price":22.95}

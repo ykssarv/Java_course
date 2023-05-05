@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Tagasivaade läbielatule","publisher":"MTÜ Jüri Kuke mälestuskeskus Hereditas","author":"Mart Niklus","link":"https://www.apollo.ee/tagasivaade-labielatule.html","yearOfPublishing":2020,"price":19.95}

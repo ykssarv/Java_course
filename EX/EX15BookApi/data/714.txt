@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Tallinn Architecture 1900–2020. Architecture Guide","publisher":"Eesti Arhitektuurimuuseum","author":"Karin Hallas-Murula","link":"https://www.apollo.ee/tallinn-architecture-1900-2020-architecture-guide.html","yearOfPublishing":2020,"price":31.95}

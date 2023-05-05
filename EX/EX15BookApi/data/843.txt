@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Radical Architecture of the Future","publisher":"Phaidon Press Ltd","author":"Beatrice Galilee","link":"https://www.apollo.ee/radical-architecture-of-the-future.html","yearOfPublishing":2021,"price":54.49}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Personal Writings","publisher":"Penguin Books","author":"Albert Camus","link":"https://www.apollo.ee/personal-writings.html","yearOfPublishing":2020,"price":13.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Partition","publisher":"Allen Lane","author":"Charles Townshend","link":"https://www.apollo.ee/the-partition.html","yearOfPublishing":2021,"price":31.95}

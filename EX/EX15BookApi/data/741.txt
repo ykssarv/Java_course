@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Oma maja","publisher":"Äripäev","link":"https://www.apollo.ee/oma-maja-0754171.html","yearOfPublishing":2018,"price":23.5}

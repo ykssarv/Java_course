@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Ajalooteaduse uued suunad","publisher":"Tallinna Ülikool","author":"Marek Tamm, Peter Burke","link":"https://www.apollo.ee/ajalooteaduse-uued-suunad.html","yearOfPublishing":2020,"price":26.95}

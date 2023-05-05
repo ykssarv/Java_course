@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Tartu 1971-1983. Jõmpsika mälestused","publisher":"OÜ Kuuloom","author":"Juhan Voolaid","link":"https://www.apollo.ee/tartu-1971-1983-jompsika-malestused.html","yearOfPublishing":2020,"price":19.95}

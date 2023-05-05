@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Craft","publisher":"Hodder \u0026 Stoughton","author":"John Dickie","link":"https://www.apollo.ee/the-craft.html","yearOfPublishing":2021,"price":13.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Palgitöö","publisher":"Ehitame kirjastus","author":"Osmo Perälä","link":"https://www.apollo.ee/palgitoo.html","yearOfPublishing":2017,"price":31.85}

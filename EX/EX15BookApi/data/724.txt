@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["arhitektuur-ja-sisekujundus"],"title":"Eesti arhitektuuriajakiri MAJA suvi 2019","publisher":"MTÜ Arhitektuurikirjastus","author":"Peatoimetaja","link":"https://www.apollo.ee/eesti-arhitektuuriajakiri-maja-suvi-2019.html","yearOfPublishing":2019,"price":9.0}

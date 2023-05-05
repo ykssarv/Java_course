@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Four Horsemen TPB","publisher":"Quercus","author":"Emily Mayhew","link":"https://www.apollo.ee/the-four-horsemen-tpb.html","yearOfPublishing":2021,"price":18.95}

@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"The Elemental Oracle : alchemy | science | magic","publisher":"Rockpool Publishing","author":"Stacey DeMarco, Kinga Britschgi","link":"https://www.apollo.ee/the-elemental-oracle-alchemy-science-magic.html","yearOfPublishing":2020,"price":17.95}

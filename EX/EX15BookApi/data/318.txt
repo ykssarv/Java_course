@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"Infoteadused teoorias ja praktikas","publisher":"Tallinna Ülikooli kirjastus","link":"https://www.apollo.ee/infoteadused-teoorias-ja-praktikas.html","yearOfPublishing":2017,"price":26.25}

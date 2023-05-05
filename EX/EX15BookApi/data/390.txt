@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Java programmeerimise aabits","publisher":"Tartu Ülikooli Arvutiteaduse instituut","author":"Jüri Kiho","link":"https://www.apollo.ee/java-programmeerimise-aabits.html","yearOfPublishing":2002}

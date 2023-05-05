@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Carlo Scarpa: Classic format","publisher":"Phaidon Press Ltd","author":"Robert McCarter","link":"https://www.apollo.ee/carlo-scarpa-classic-format.html","yearOfPublishing":2021,"price":57.49}

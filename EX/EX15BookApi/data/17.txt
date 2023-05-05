@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Inimkond Paljutõotav ajalugu","publisher":"Varrak","author":"Rutger Bregman","link":"https://www.apollo.ee/inimkond.html","yearOfPublishing":2021,"price":29.95}

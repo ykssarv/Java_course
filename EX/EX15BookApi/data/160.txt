@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Places and Names On War, Revolution and Returning","publisher":"Penguin Books","author":"Elliot Ackerman","link":"https://www.apollo.ee/places-and-names.html","yearOfPublishing":2021,"price":12.95}

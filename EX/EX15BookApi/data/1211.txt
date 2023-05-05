@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Väike vaimuraamat Karismaatiline usupraktika vaatleja pilgu läbi","publisher":"MTÜ Allika","author":"Tõnu Lehtsaar","link":"https://www.apollo.ee/vaike-vaimuraamat.html","yearOfPublishing":2021,"price":24.67}

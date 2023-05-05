@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Linnad inimestele","publisher":"Eesti Kunstiakadeemia, Yoko Oma","author":"Jan Gehl","link":"https://www.apollo.ee/linnad-inimestele.html","yearOfPublishing":2015}

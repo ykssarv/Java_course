@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Stalin´s War","publisher":"Allen Lane","author":"Sean McMeekin","link":"https://www.apollo.ee/stalin-s-war.html","yearOfPublishing":2021,"price":43.95}

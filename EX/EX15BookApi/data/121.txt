@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"Heroes of the Holocaust","publisher":"Ebury Press","author":"Lyn Smith","link":"https://www.apollo.ee/heroes-of-the-holocaust.html","yearOfPublishing":2021,"price":8.95}

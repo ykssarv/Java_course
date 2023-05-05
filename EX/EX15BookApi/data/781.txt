@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Aja lugu Muinsuskaitse ja restaureerimise ajaloost","publisher":"Eesti Kunstiakadeemia","link":"https://www.apollo.ee/aja-lugu-0637808.html","yearOfPublishing":2016,"price":12.45}

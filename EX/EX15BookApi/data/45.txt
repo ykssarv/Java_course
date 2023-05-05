@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vana-Võromaa päevapiltnikud","publisher":"Võru instituut","author":"Ago Ruus","link":"https://www.apollo.ee/vana-voromaa-paevapiltnikud.html","yearOfPublishing":2021,"price":29.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Usukultuur evangeelses luterlikus vaatevinklis Teoloogilise mõtte uurimusi ja arendusi","publisher":"EELK Usuteaduse Instituut","author":"Thomas-Andreas Põder","link":"https://www.apollo.ee/usukultuur-evangeelses-luterlikus-vaatevinklis.html","yearOfPublishing":2018,"price":28.95}

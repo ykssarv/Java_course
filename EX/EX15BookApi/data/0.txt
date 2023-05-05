@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Revali linna müntmeister Paul Gulden","publisher":"AS Äripäev","author":"Ivar Leimus","link":"https://www.apollo.ee/revali-linna-muntmeister-paul-gulden.html","yearOfPublishing":2021,"price":36.95}

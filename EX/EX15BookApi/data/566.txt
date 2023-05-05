@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"Vlad Dracula Tarot","publisher":"Rockpool Publishing","author":"Travis McHenry, Nikita Vuimin","link":"https://www.apollo.ee/vlad-dracula-tarot.html","yearOfPublishing":2021,"price":23.95}

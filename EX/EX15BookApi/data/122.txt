@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Kennedy Curse","publisher":"Arrow","author":"James Patterson","link":"https://www.apollo.ee/the-kennedy-curse.html","yearOfPublishing":2021,"price":8.95}

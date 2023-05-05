@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Kehavälised rännakud","publisher":"SÜNK Lahendused","author":"Robert A. Monroe","link":"https://www.apollo.ee/kehavalised-rannakud.html","yearOfPublishing":2020,"price":19.95}

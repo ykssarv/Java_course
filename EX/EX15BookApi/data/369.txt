@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"UML 2 ja Rational RUP terminid. Inglise-eesti","author":"Vello Hanson","link":"https://www.apollo.ee/uml-2-ja-rational-rup-terminid-inglise-eesti.html","yearOfPublishing":2007}

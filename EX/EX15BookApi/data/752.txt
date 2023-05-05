@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Arhitektuuri ajalugu 100 ehitises","publisher":"Äripäev","author":"Dan Cruickshank","link":"https://www.apollo.ee/arhitektuuri-ajalugu-100-ehitises.html","yearOfPublishing":2017,"price":29.5}

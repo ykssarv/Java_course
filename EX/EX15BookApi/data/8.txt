@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Kuressaare linnus- kindluse 700 aastat","publisher":"Saaremaa Muuseum","author":"Garel Püüa","link":"https://www.apollo.ee/kuressaare-linnus-kindluse-700-aastat.html","yearOfPublishing":2021,"price":8.95}

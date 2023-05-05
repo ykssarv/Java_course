@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"Angel Tarot","publisher":"Rockpool Publishing","link":"https://www.apollo.ee/angel-tarot.html","yearOfPublishing":2020,"price":23.95}

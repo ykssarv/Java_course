@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"Tarot Of The Divine","publisher":"Clarkson Potter","author":"Yoshi Yoshitani","link":"https://www.apollo.ee/tarot-of-the-divine.html","yearOfPublishing":2020,"price":16.95}

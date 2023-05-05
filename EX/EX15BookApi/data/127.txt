@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["ajalugu"],"title":"The Western Front","publisher":"Viking","author":"Nick Lloyd","link":"https://www.apollo.ee/the-western-front.html","yearOfPublishing":2021,"price":31.95}

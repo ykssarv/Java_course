@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Koduraamat 3","publisher":"Ruumi Lugu OÜ","author":"Monika Süvari","link":"https://www.apollo.ee/koduraamat-3.html","yearOfPublishing":2020,"price":29.0}

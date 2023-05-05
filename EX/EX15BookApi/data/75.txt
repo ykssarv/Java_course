@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Tallinn septembris 1944","publisher":"Ammukaar","author":"Hanno Ojalo","link":"https://www.apollo.ee/tallinn-septembris-1944.html","yearOfPublishing":2020,"price":9.9}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Vaid üks eesti kirjandus Mälestusi, arvustusi, kõnesid ja vestlusi","publisher":"EKSA","author":"Kalju Lepik","link":"https://www.apollo.ee/vaid-uks-eesti-kirjandus.html","yearOfPublishing":2021,"price":28.95}

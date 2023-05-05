@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"50 leiutist, mis vormisid tänapäeva majandust","publisher":"AS Äripäev","author":"Tim Harford","link":"https://www.apollo.ee/50-leiutist-mis-vormisid-tanapaeva-majandust.html","yearOfPublishing":2021,"price":36.95}

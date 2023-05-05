@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["astroloogia-ja-maagia"],"title":"Young Witch´s Guide to Magick","publisher":"GMC Group","author":"Cassandra Eason","link":"https://www.apollo.ee/young-witch-s-guide-to-magick.html","yearOfPublishing":2020,"price":18.95}

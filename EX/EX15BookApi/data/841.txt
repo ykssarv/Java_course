@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Digital Drawing for Designers: A Visual Guide to AutoCAD 2021","publisher":"Bloomsbury Publishing PLC","author":"Assistant Professor Douglas R. Seidler","link":"https://www.apollo.ee/digital-drawing-for-designers-a-visual-guide-to-autocad-2021.html","yearOfPublishing":2021,"price":100.99}

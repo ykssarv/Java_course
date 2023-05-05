@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"[etteaste] ERMi näitusemaja 1994-2015","publisher":"Eesti Rahva Muuseum","author":"Agnes Aljas, Jane Liiv, Kristjan Raba","link":"https://www.apollo.ee/etteaste-ermi-naitusemaja-1994-2015.html","yearOfPublishing":2015,"price":14.65}

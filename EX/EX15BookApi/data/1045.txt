@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Peter 2.0","publisher":"Michael Joseph","author":"Peter Scott-Morgan","link":"https://www.apollo.ee/peter-2-0.html","yearOfPublishing":2021,"price":21.95}

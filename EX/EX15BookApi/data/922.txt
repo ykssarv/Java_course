@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Keskkooli kaja","publisher":"Ilmamaa","author":"Ott Kurs","link":"https://www.apollo.ee/keskkooli-kaja.html","yearOfPublishing":2021,"price":13.95}

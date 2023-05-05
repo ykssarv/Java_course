@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Architecture Thinking across Boundaries: Knowledge transfers since the 1960s","publisher":"Bloomsbury Publishing PLC","link":"https://www.apollo.ee/architecture-thinking-across-boundaries-knowledge-transfers-since-the-1960s.html","yearOfPublishing":2020,"price":106.99}

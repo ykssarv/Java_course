@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vana-Rooma kuriteod","publisher":"Tammerraamat OÜ","author":"Jerry Toner","link":"https://www.apollo.ee/vana-rooma-kuriteod.html","yearOfPublishing":2021,"price":21.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arvuti-ja-internet"],"title":"Käsiraamat: Excel 2013-2016 tavakasutajale","publisher":"Binari Pro OÜ","author":"Riina Reinumägi","link":"https://www.apollo.ee/kasiraamat-excel-2013-2016-tavakasutajale.html","yearOfPublishing":2017,"price":16.09}

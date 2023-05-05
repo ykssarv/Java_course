@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Esivanemate pärand Meie vere jõud","publisher":"Pilgrim","author":"Viktoria Raidos","link":"https://www.apollo.ee/esivanemate-parand.html","yearOfPublishing":2019,"price":24.95}

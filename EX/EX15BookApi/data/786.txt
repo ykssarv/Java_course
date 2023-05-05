@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Kärdla aknad","publisher":"Hiiumaa Muinsuskaitse Selts","author":"Koostaja Dan Lukas","link":"https://www.apollo.ee/kardla-aknad.html","yearOfPublishing":2015}

@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"AutoCAD 2002 arvutijoonestaja käsiraamat","publisher":"Ehitame","author":"Leo Türn","link":"https://www.apollo.ee/autocad-2002.html","yearOfPublishing":2002}

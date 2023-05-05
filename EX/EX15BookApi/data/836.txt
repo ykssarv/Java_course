@@ -1,0 +1,1 @@
+{"topics":["arhitektuur-ja-sisekujundus"],"title":"Flower Colour Guide","publisher":"Phaidon Press Ltd","author":"Darroch Putnam,Michael Putnam","link":"https://www.apollo.ee/flower-colour-guide.html","yearOfPublishing":2018,"price":35.99}

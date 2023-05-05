@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Let Love Rule","publisher":"Little, Brown Book Group","author":"Lenny Kravitz","link":"https://www.apollo.ee/let-love-rule.html","yearOfPublishing":2020,"price":18.95}

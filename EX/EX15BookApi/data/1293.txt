@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Palve. Mõtteid palve väest.","publisher":"MTÜ Allika","author":"Oswald Chambers","link":"https://www.apollo.ee/palve-motteid-palve-vaest.html","yearOfPublishing":2017,"price":18.85}

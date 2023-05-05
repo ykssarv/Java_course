@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Statistilise andmetöötluse pakett SPSS 14.0 Põhikursus","publisher":"TLÜ Kirjastus","author":"Katrin Niglas","link":"https://www.apollo.ee/statistilise-andmetootluse-pakett-spss-14-0.html","yearOfPublishing":2008}

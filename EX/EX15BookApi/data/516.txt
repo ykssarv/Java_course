@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Taassünd","publisher":"Ühinenud Ajakirjad","author":"Marilyn Kerro","link":"https://www.apollo.ee/taassund.html","yearOfPublishing":2019,"price":25.95}

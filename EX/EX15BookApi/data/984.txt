@@ -1,0 +1,1 @@
+{"topics":["biograafia-ja-memuaarid"],"title":"Astrid Lindgren. Päev nagu elu","publisher":"Koolibri","author":"Jens Andersen","link":"https://www.apollo.ee/astrid-lindgren-paev-nagu-elu.html","yearOfPublishing":2017,"price":34.95}

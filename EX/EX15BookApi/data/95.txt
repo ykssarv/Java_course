@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vana Tallinn","publisher":"Tallinna Linnaarhiiv","link":"https://www.apollo.ee/vana-tallinn-277554.html","yearOfPublishing":2020,"price":25.95}

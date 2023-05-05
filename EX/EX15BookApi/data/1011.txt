@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"What Have I Done?","publisher":"Vintage","author":"Laura Dockrill","link":"https://www.apollo.ee/what-have-i-done.html","yearOfPublishing":2021,"price":9.95}

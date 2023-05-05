@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"CorelDRAW 11 käsiraamat","publisher":"GT Tarkvara","author":"Ilse Sinivee","link":"https://www.apollo.ee/coreldraw-11-kasiraamat.html","yearOfPublishing":2003}

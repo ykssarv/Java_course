@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Graafilise disaini käsiraamat","publisher":"Digipraktik","author":"Jason Simmons","link":"https://www.apollo.ee/graafilise-disaini-kasiraamat.html","yearOfPublishing":2008}

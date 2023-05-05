@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Isiksuste enneagramm","publisher":"Tänapäev","author":"David N. Daniels, Virginia A. Price","link":"https://www.apollo.ee/isiksuste-enneagramm.html","yearOfPublishing":2020,"price":21.95}

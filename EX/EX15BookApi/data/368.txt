@@ -1,0 +1,1 @@
+{"topics":["arvuti-ja-internet"],"title":"Operatsioonisüsteemid. Praktikumijuhend","publisher":"Tartu Ülikooli Kirjastus","author":"Kersti Taurus","link":"https://www.apollo.ee/operatsioonisusteemid-praktikumijuhend.html","yearOfPublishing":2007}

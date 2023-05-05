@@ -1,0 +1,1 @@
+{"topics":["biograafia-ja-memuaarid"],"title":"The Prince","publisher":"Pan Macmillan","author":"Niccolo Machiavelli","link":"https://www.apollo.ee/the-prince.html","yearOfPublishing":2019,"price":12.99}

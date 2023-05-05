@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Gateshead in 50 Buildings","publisher":"Amberley Publishing","author":"Rob Kirkup","link":"https://www.apollo.ee/gateshead-in-50-buildings.html","yearOfPublishing":2018,"price":18.99}

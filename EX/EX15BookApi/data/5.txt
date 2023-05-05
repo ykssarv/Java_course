@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Kuu lühiajalugu","publisher":"Eesti Raamat","author":"Fatoumata Kebe","link":"https://www.apollo.ee/kuu-luhiajalugu.html","yearOfPublishing":2021,"price":20.95}

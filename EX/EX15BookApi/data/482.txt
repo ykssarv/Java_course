@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Veevalaja Astroloogiline teejuht","publisher":"Sinisukk","author":"Stella Andromeda","link":"https://www.apollo.ee/veevalaja-268606.html","yearOfPublishing":2020,"price":18.95}

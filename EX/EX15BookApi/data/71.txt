@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vabadussõja merevõitlused","publisher":"Sentinel","author":"Mati Õun, Peedu Sammalsoo, Hannes Walter","link":"https://www.apollo.ee/vabadussoja-merevoitlused.html","yearOfPublishing":2020,"price":17.95}

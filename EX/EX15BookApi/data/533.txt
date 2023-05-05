@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Täheinimesed","publisher":"Eluvaim","author":"Ilona Karula","link":"https://www.apollo.ee/taheinimesed.html","yearOfPublishing":2019,"price":24.95}

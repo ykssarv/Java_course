@@ -1,0 +1,1 @@
+{"language":"Vene","topics":["arhitektuur-ja-sisekujundus"],"title":"Kopli sonaat. Vene-Balti laevatehas","publisher":"Eesti Arhitektuurimuuseum","author":"Oliver Orro, Robert Treufeldt, Maris Mändel","link":"https://www.apollo.ee/kopli-sonaat-vene-balti-laevatehas.html","yearOfPublishing":2017,"price":35.99}

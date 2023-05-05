@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Reformatsioon 500 – vaimsus, kultuurimõjud, perspektiivid","publisher":"EELK Usuteaduse Instituut","author":"Randar Tasmuth, Anne Burghardt, Thomas-Andreas Põder","link":"https://www.apollo.ee/reformatsioon-500-vaimsus-kultuurimojud-perspektiivid.html","yearOfPublishing":2017,"price":12.0}

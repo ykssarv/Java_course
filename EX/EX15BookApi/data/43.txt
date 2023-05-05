@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Pagide pillutada. Kaptenmajor Bruno Linneberg: Eesti mereväeohvitser ja tema aeg","publisher":"Argo kirjastus","author":"Reet Naber, Arto Oll","link":"https://www.apollo.ee/pagide-pillutada-kaptenmajor-bruno-linneberg-eesti-merevaeohvitser-ja-tema-aeg.html","yearOfPublishing":2020,"price":31.95}

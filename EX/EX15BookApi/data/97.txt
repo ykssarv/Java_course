@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Vene maffia 1991-2019 Venemaa kuritegelike grupeeringute väljakujunemine","publisher":"Rahva Raamat AS","author":"Valeri Karõšev","link":"https://www.apollo.ee/vene-maffia-1991-2019.html","yearOfPublishing":2020,"price":20.95}

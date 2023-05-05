@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"365 päeva oma kaitseingliga","publisher":"Gallus","author":"René Lejeune","link":"https://www.apollo.ee/365-paeva-oma-kaitseingliga.html","yearOfPublishing":2018,"price":11.95}

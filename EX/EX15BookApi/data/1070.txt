@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Alexander Hamilton","publisher":"Penguin Putnam","author":"Ron Chernow","link":"https://www.apollo.ee/alexander-hamilton-288072.html","yearOfPublishing":2016,"price":18.95}

@@ -1,0 +1,1 @@
+{"topics":["ajalugu"],"title":"Quarry Bank","publisher":"Pavilion Books","author":"National Trust","link":"https://www.apollo.ee/quarry-bank.html","yearOfPublishing":2018,"price":7.99}

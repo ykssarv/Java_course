@@ -1,0 +1,1 @@
+{"language":"Inglise","topics":["biograafia-ja-memuaarid"],"title":"Sontag","publisher":"Penguin Books","author":"Benjamin Moser","link":"https://www.apollo.ee/sontag.html","yearOfPublishing":2020,"price":23.95}

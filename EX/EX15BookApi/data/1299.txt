@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Martin Luther ja protestantlik reformatsioon","publisher":"Johannes Esto Kirjastus","author":"Arne Hiob","link":"https://www.apollo.ee/martin-luther-ja-protestantlik-reformatsioon.html","yearOfPublishing":2017,"price":20.29}

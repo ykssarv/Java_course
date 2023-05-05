@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["astroloogia-ja-maagia"],"title":"Imed teevad imesid Kuidas meditsiin ja ravimaagia meid terveks ravivad","publisher":"Pegasus","author":"Eckart von Hirschhausen","link":"https://www.apollo.ee/imed-teevad-imesid.html","yearOfPublishing":2019,"price":7.99}

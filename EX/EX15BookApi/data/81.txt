@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["ajalugu"],"title":"Stalini kuritegude salajane ajalugu","publisher":"Helios","author":"Aleksandr Orlov","link":"https://www.apollo.ee/stalini-kuritegude-salajane-ajalugu.html","yearOfPublishing":2020,"price":25.95}

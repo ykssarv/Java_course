@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["biograafia-ja-memuaarid"],"title":"Roger Federer","publisher":"Tänapäev","author":"René Stauffer","link":"https://www.apollo.ee/roger-federer.html","yearOfPublishing":2020,"price":26.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["religioon-ja-mutoloogia"],"title":"Igavik kestab praegu","publisher":"MTÜ Allika","author":"John Ortberg","link":"https://www.apollo.ee/igavik-kestab-praegu.html","yearOfPublishing":2019,"price":15.95}

@@ -1,0 +1,1 @@
+{"language":"Eesti","topics":["arhitektuur-ja-sisekujundus"],"title":"Stenhus’id, arx’id, torne’d... Eesti mõisaarhitektuuri vanim kihistus","publisher":"Õpetatud Eesti Selts","author":"Ants Hein","link":"https://www.apollo.ee/stenhus-id-arx-id-torne-d-eesti-moisaarhitektuuri-vanim-kihistus.html","yearOfPublishing":2016,"price":7.59}
